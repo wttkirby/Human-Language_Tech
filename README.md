@@ -9,3 +9,6 @@ For this assignment I had to read in and process data from a .csv file in python
 
 # Assignment 2: Word Guess Game
 For this assignment I had to use NLTK to explore a text file and familiarize myself with the given tools. After using various tools imported from NLTK I made a simple word guessing [game](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_2/Homework2_IRK180000.py). To use the program it is similar to assignment one as you must go to the command prompt and write **python Homework2_IRK180000.py anat19.txt**, but should run normally after that point.
+
+# Assignment 3: WordNet
+For this assignment I had to explore WordNet, SentiWordNet, and collocation. This helped introduce new topics and was generally pretty interesting. I used various words in conjunction with the previously mentioned libraries and concepts to learn about how words are catagorized when processing them for use with computers and chatbots. This is the [pdf](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_3/Portfolio%20Component%203_%20Wordnet.pdf) of my notebook. If you would like to download the file and put in your own inputs look in this [folder](https://github.com/wttkirby/Human-Language_Tech/tree/main/Assignment_3).
