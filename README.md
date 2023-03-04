@@ -12,3 +12,9 @@ For this assignment I had to use NLTK to explore a text file and familiarize mys
 
 # Assignment 3: WordNet
 For this assignment I had to explore WordNet, SentiWordNet, and collocation. This helped introduce new topics and was generally pretty interesting. I used various words in conjunction with the previously mentioned libraries and concepts to learn about how words are catagorized when processing them for use with computers and chatbots. This is the [pdf](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_3/Portfolio%20Component%203_%20Wordnet.pdf) of my notebook. If you would like to download the file and put in your own inputs look in this [folder](https://github.com/wttkirby/Human-Language_Tech/tree/main/Assignment_3).
+
+# Assignment 4: Ngrams
+For this assignment we read in training files for three languages (English, French, and Italian) and then, make unigrams and bigrams for each language, and then pickle them in this [file](). Then, in this [file]() I read in a test file and went line by line to try and figure out if each line was in a specific language. After that, the predictions were stored in a seperate file (found in the Assignment_4) folder. When running the files, the first one must be run before the second, and after completion of the second you can view the predictions in the file mentioned previously and the accuracy and the list of incorrect lines will be displayed. This is a [paper]() written about NGrams.
+
+# Assignment 6: Parsing
+For this assignment I created a sentence and parsed it in three different ways (PSG, Dependency Tree, SRL) and wrote a small paragraph on my thought of each n this [paper]().
