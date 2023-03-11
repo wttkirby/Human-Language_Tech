@@ -1,0 +1,43 @@
+ @prismcss@ CSS Added Dynamically Here Skip directly to site content Skip directly to search Centers for Disease Control and Prevention.
+CDC twenty four seven.
+Saving Lives, Protecting People Search × NIOSH NIOSH All CDC Submit For a full list of topics: A-Z Index Advanced Search Advanced Search The National Institute for Occupational Safety and Health (NIOSH) section nav area Section Navigation CDC Home Breadcrumbs Page Share Facebook Twitter LinkedIn Syndicate Global Above Feature Page Content Wrap Content TP4 Historical Page message is replaced with SSI on coronavirus Visual Element, this is what was the site identity in TP3 IE11 Fallback Only.
+Load the biggest image size.
+Page Title/Section Nav (mobile) Nanotechnology Español (Spanish) Related Pages IE11 Fallback Only.
+Load the biggest image size.
+Overview Nanotechnology is the manipulation of matter on a near-atomic scale to produce new structures, materials and devices.
+The technology promises scientific advancement in many sectors such as medicine, consumer products, energy, materials and manufacturing.
+Nanotechnology refers to engineered structures, devices, and systems.
+Nanomaterials have a length scale between 1 and 100 nanometers.
+At this size, materials begin to exhibit unique properties that affect physical, chemical, and biological behavior.
+Researching, developing, and utilizing these properties is at the heart of new technology.
+Worker Risks Workers within nanotechnology-related industries may experience exposure to uniquely engineered materials.
+This includes novel sizes, shapes, and physical and chemical properties.
+Occupational health risks associated with manufacturing and using nanomaterials are not yet clearly understood.
+Minimal information is currently available on dominant exposure routes, potential exposure levels, and material toxicity of nanomaterials.
+Current Research Studies have indicated that low solubility nanoparticles are more toxic than larger particles on a mass for mass basis.
+Particle surface area and surface chemistry are strong indicators for observed responses in cell cultures and animals.
+Studies suggests that some nanoparticles can move from the respiratory system to other organs.
+Research is continuing to understand how these unique properties may lead to specific health effects.
+The NIOSH Effort NIOSH leads the federal government health and safety initiative for nanotechnology.
+The NIOSH Nanotechnology Research Center (NTRC), established in 2004, coordinates research and activities.
+News and Events Technical Report: Occupational Exposure Sampling for Engineered Nanomaterials DHHS (NIOSH) Publication Number 2022-153 Current Intelligence Bulletin 70: Health Effects of Occupational Exposure to Silver Nanomaterials (DHHS (NIOSH) Publication Number 2021-112) 3D Printing with Filaments: Health and Safety Questions to Ask (DHHS (NIOSH) Publication Number 2020-115) 3D Printing with Metal Powders: Health and Safety Questions to Ask (DHHS (NIOSH) Publication Number 2020-114) Continuing to Protect the Nanotechnology Workforce: NIOSH Nanotechnology Research Plan for 2018 – 2025 (DHHS (NIOSH) Publication Number 2019-116) Nanotechnology Topics Nano Research Center More 10 Critical Topic Areas More FAQs More Field Studies Effort More Nanotechnology Resources Guidance and Publications Partnerships and Collaborations Nanotechnology on the NIOSH Science Blog Other Resources Persistent Content Area Here Page last reviewed: March 27, 2020 Content source: National Institute for Occupational Safety and Health Left / Bottom Nav Workplace Safety & Health Topics Nanotechnology Nanotechnology Research Center Guidance & Publications Field Studies Effort 10 Critical Topic Areas News & Events Partnerships & Collaborations Frequently Asked Questions Other Resources Above Footer Start Above Footer End About CDC Contact Us 800-232-4636 Facebook Twitter Instagram LinkedIn Youtube Pinterest Snapchat CONTACT CDC Contact Us Call 800-232-4636 Email Us ABOUT CDC About CDC Jobs Funding POLICIES Accessibility External Links Privacy Policies No Fear Act FOIA OIG Nondiscrimination Vulnerability Disclosure Policy CONNECT WITH US Facebook Twitter Instagram LinkedIn Youtube Pinterest Snapchat Email LANGUAGES Español 繁體中文 Tiếng Việt 한국어 Tagalog Русский العربية Kreyòl Ayisyen Français Polski Português Italiano Deutsch 日本語 فارسی English U.S. Department of Health & Human Services Accessibility External Links Privacy Policies No Fear Act FOIA Nondiscrimination OIG Vulnerability Disclosure Policy USA.gov social media footer removed @axejs@ @prismjs@ @typeaheadjs@ file types timeline Alerts external link icon FILL FIX ICONS These are most likely font icons now but there were issues with some because a fill class was embedded in these and the svgs are on some older pages ROUND ICONS Could be moved to font icons JS Added Dynamically Here External Link Modal Exit Notification / Disclaimer Policy Close Links with this icon indicate that you are leaving the CDC website.
+The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+You will be subject to the destination website's privacy policy when you follow the link.
+CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+For more information on CDC's web notification policies, see Website Disclaimers .
+<a href="" class="extlink-url-notice"></a> Cancel Continue CDC.gov Privacy Settings We take your privacy seriously.
+You can review and change the way we collect information below.
+Performance Cookies Checkbox Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+They help us to know which pages are the most and least popular and see how visitors move around the site.
+All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+Functional Cookies Checkbox Functional Cookies Cookies used to make website functionality more relevant to you.
+These cookies perform functions like remembering presentation options or choices and, in some cases, delivery of web content that based on self-identified area of interests.
+Campaign Cookies Checkbox Campaign Cookies Cookies used to track the effectiveness of CDC public health campaigns through clickthrough data.
+Social Media Cookies Checkbox Social Media Cookies Cookies used to enable you to share pages and content that you find interesting on CDC.gov through third party social networking and other websites.
+These cookies may also be used for advertising purposes by these third parties.
+Remove all Confirm Choices Confirmed!
+Thank you for taking the time to confirm your preferences.
+If you need to go back and make any changes, you can always do so by going to our Privacy Policy page.
+Close

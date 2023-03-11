@@ -1,0 +1,77 @@
+ Legacy Google Tag Manager End Legacy Google Tag Manager Google Tag Manager End Google Tag Manager Chartbeat Code End Chartbeat Code Google Tag Manager (noscript) End Google Tag Manager (noscript) Skip to main content Subscribe Latest Issues Menu Scientific American Cart 0 Sign In Email *: Password *: Forgot password?
+Login Not yet registered?
+| Newsletters Search Subscribe Close Search Input Search Close Search Advanced Search COVID Health Mind & Brain Environment Technology Space & Physics Video Podcasts Opinion Store Subscribe Current Issue Cart 0 Sign In Newsletters Credit: Getty Images Opinion A Big Bet on Nanotechnology Has Paid Off The National Nanotechnology Initiative promised a lot.
+It has delivered more By Chad Mirkin By: Chad Mirkin close Chad Mirkin is director of the International Institute for Nanotechnology, George B. Rathmann Professor of Chemistry and a professor of materials science and engineering, medicine, biomedical engineering, and chemical and biological engineering at Northwestern University.
+facebook Share on Facebook Share on Twitter Share via Email October 9, 2021 | AUTHOR Chad Mirkin is director of the International Institute for Nanotechnology, George B. Rathmann Professor of Chemistry and a professor of materials science and engineering, medicine, biomedical engineering, and chemical and biological engineering at Northwestern University.
+Credit: Getty Images We’re now more than two decades out from the initial announcement of the National Nanotechnology Initiative (NNI), a federal program from President Bill Clinton founded in 2000 to support nanotechnology research and development in universities, government agencies and industry laboratories across the United States.
+It was a significant financial bet on a field that was better known among the general public for science fiction than scientific achievement.
+Today it’s clear that the NNI did more than influence the direction of research in the U.S.
+It catalyzed a worldwide effort and spurred an explosion of creativity in the scientific community.
+And we’re reaping the rewards not just in medicine, but also clean energy, environmental remediation and beyond.
+Before the NNI, there were people who thought nanotechnology was a gimmick.
+I began my research career in chemistry, but it seemed to me that nanotechnology was a once-in-a-lifetime opportunity: the opening of a new field that crossed scientific disciplines.
+In the wake of the NNI, my university, Northwestern University, made the strategic decision to establish the International Institute for Nanotechnology, which now represents more than $1 billion in pure nanotechnology research, educational programs and supporting infrastructure.
+Other universities across the U.S. made similar investments, creating new institutes and interdisciplinary partnerships.
+There is a beautifully simple principle at the heart of modern nanotechnology research.
+Bulk materials become brand-new when miniaturized or restructured at the nanoscale.
+Their properties change in strange and marvelous ways.
+For example, a gold nanoparticle is not the shiny yellow color we know from rings and medals; it can exhibit any color of the rainbow depending on size and shape.
+Through synthetic fine-tuning, chemists have discovered how to make gold prisms, cubes, rods and even more exotic and complex-shaped nanoparticles that can be blue, green, red or purple.
+Why does that matter?
+After all, nanoelectronics were already powering laptops, cameras and other consumer devices by the late 1990s.
+Chips kept getting smaller and more powerful.
+(Hence, the endless tales of nanobots gone rogue.)
+The miniaturization of electronics would have continued without the NNI.
+What the NNI did was move nanotechnology into places it had not significantly ventured before, like the medical, chemical, optical and transportation industries.
+Size-wise, the nanoscale is comparable to biological structures such as proteins, viruses and DNA.
+This realization has allowed the preparation of unique classes of hybrid nano-bio structures that have fundamentally changed how we study, track and treat disease.
+Indeed, some of the most exciting developments of the last two decades pertain to medicine.
+Many powerful new diagnostic tools have been developed and commercialized based upon nanoparticle probes.
+Early nanotechnology research was at the foundation of rapid tests that made it possible for schools and society to reopen during the COVID-19 pandemic.
+Many of the powerful nucleic acid and antigen tests that definitively diagnose disease are based upon nanotechnology platforms.
+Also, dozens of new nanomedicines, based upon the concept of restructuring drug or vaccine components on the nanoscale to make them more potent or capable of crossing biological barriers, are now in or will be in clinical trials for psoriasis, debilitating cancers, neurological disorders, diseases of the eye and even COVID-19.
+Specifically, spherical nucleic acids, nanoparticle structures densely modified with short snippets of DNA or RNA, are new forms of the “blueprint of life” that interact with living systems in ways not observed before—ways that allow them to access and penetrate tissues and be used as powerful new genetic medicines.
+The ultimate components of the biological gene-editing nanomachine CRISPR-Cas9 have been identified, isolated and reconstituted as medicines.
+Many of these nanomedical tools are highly modular, allowing for rapid development for a variety of different targets.
+Moreover, as a new route to inter- or transdisciplinary research, which was at the core of the NNI, nanotechnology has driven a new narrative in STEM: collaboration.
+Nanotechnology has captured the imagination of a generation of materials scientists, chemists, physicists and biologists to synthesize and understand new materials; as well as inspiring engineers who are trained to develop tools for making and manipulating such structures; and doctors who can use them in the clinic.
+Collaborative nanotechnology research at our institute unites faculty members from 32 departments across four schools at Northwestern.
+This diversity of training and perspective does more than broaden the scope of our research.
+It enables us to identify, understand and address big problems—and it helps us break down barriers between the lab and the marketplace.
+Together, the advances span the fundamental to the applied.
+Case in point: quantum dots, which are nanoscale forms of semiconductors, exhibit size-dependent fluorescence.
+These have become the basis for high-quality televisions and displays.
+Chemical frameworks with designed porosities at the nanoscale have become sponges for environmental remediation or gas storage.
+High-powered electron and scanning probe microscopy tools originally developed to visualize nanostructures—sometimes at the single-molecule or atomic level—are now used to make millions of positionally encoded nanostructures at once, dramatically accelerating new materials discovery.
+It’s a daunting task to mine the “materials genome,” which is all of the possible combinations of elements in the periodic table.
+With nanomaterials, when one adds size and shape—because remember those structural features now change properties and functions—the parameter set is near endless and finding the ideal material for a given task through conventional synthetic methods makes needles and haystacks sound like a breeze.
+That’s where nanotechnology comes in.
+Tools that make use of massively parallel arrays of nanoscale tips are now being used to build combinatorial “megalibraries” consisting of millions of nanostructures, each with slightly different sizes, compositions and shapes.
+The two-centimeter by two-centimeter chips that support a megalibrary are analogous to the gene chips that fueled the genomics revolution, but with more features by several orders of magnitude.
+In fact, a single megalibrary contains more new inorganic materials than scientists have collectively synthesized and characterized to date.
+Consequently, when screening new materials, scientists have identified catalysts that fuel processes in the clean energy, automotive and chemical industries.
+To develop next-generation batteries that can handle long-term storage of renewable energy, or build fuel cells that will meet the demands of bigger and more powerful vehicles, there has to be a way to identify and create materials with the properties we need.
+With megalibraries, we can do that—quickly and efficiently.
+Scientists are also using megalibraries to identify structures with important physical properties like magnetism, luminescence and high-temperature superconductivity.
+It’s important to note that they are a source of high-quality big data, powering new discoveries in machine learning and artificial intelligence geared towards materials discovery.
+We’ve come a long way from tiny robots.
+Looking back, the NNI—and the investments in research that came with it—served as an inflection point that made these accomplishments possible.
+More importantly, the vision behind the NNI is pointing the way forward—and, through sustained investment in research and education, we can get there.
+It is important for Americans to understand that much of the technology that defines our modern lives comes from strategic investments like the NNI that lead to the university and government laboratory inventions that become a technological foundation for a significant share of industrial innovation and progress.
+Rights & Permissions Read This Next Biotech How Nanotech Powers Precision Medicine Robert Langer Technology How Self-Powered Nanotech Machines Work Zhong Lin Wang Renewable Energy Wave Power Charges Ahead with Static Electricity Generators Maddie Bender Newsletters Sign up for Scientific American ’s free newsletters.
+Sign Up Support Science Journalism Discover world-changing science.
+Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners.
+Subscribe Now!
+Follow us instagram soundcloud youtube twitter facebook rss Scientific american arabic العربية Return & Refund Policy About Press Room FAQs Contact Us Site Map Advertise SA Custom Media Terms of Use Privacy Policy California Consumer Privacy Statement Use of cookies/Do not sell my data International Editions Scientific American is part of Springer Nature , which owns or has commercial relations with thousands of scientific publications (many of them can be found at www.springernature.com/us ).
+Scientific American maintains a strict policy of editorial independence in reporting developments in science to our readers.
+© 2023 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved.
+Scroll To Top OneTrust Cookies Consent Notice start for scientificamerican.com OneTrust Cookies Consent Notice end for scientificamerican.com Support science journalism.
+Thanks for reading Scientific American.
+Knowledge awaits.
+See Subscription Options Already a subscriber?
+Sign in.
+Thanks for reading Scientific American.
+Create your free account or Sign in to continue.
+Create Account See Subscription Options Continue reading with a Scientific American subscription.
+Subscribe Now You may cancel at any time.
+Sign in.

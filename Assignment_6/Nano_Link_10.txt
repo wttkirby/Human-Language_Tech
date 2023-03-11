@@ -1,0 +1,141 @@
+ Jump to content Toggle sidebar Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Tools What links here Related changes Upload file Special pages Permanent link Page information Cite this page Wikidata item Print/export Download as PDF Printable version Languages On this Wikipedia the language links are at the top of the page across from the article title.
+Go to top .
+CentralNotice Contents move to sidebar hide (Top) 1 Industrial applications Toggle Industrial applications subsection 1.1 Potential applications of carbon nanotubes 1.2 Construction 1.3 Nanoelectronics 2 Health applications Toggle Health applications subsection 2.1 Nanobiotechnology 3 Energy applications Toggle Energy applications subsection 3.1 Solar Cells 3.2 Hydrogen Fuel Cells 3.3 Nanographene Batteries 4 References Toggle the table of contents Toggle the table of contents Applications of nanotechnology 5 languages العربية Bosanski Ελληνικά Italiano ಕನ್ನಡ Edit links Article Talk English Read Edit View history More Read Edit View history From Wikipedia, the free encyclopedia Uses for technology on very small scales The applications of nanotechnology , commonly incorporate industrial, medicinal, and energy uses.
+These include more durable construction materials, therapeutic drug delivery, and higher density hydrogen fuel cells that are environmentally friendly.
+Being that nanoparticles and nanodevices are highly versatile through modification of their physiochemical properties, they have found uses in nanoscale electronics, cancer treatments, vaccines, hydrogen fuel cells, and nanographene batteries.
+allowing for varying chemical reactivities and diffusion effects that can be studied and changed for diversified applications.
+A common application of nanomedicine is in therapeutic drug delivery, where nanoparticles containing drugs for therapeutic treatment of disease are introduced into the body and act as vessels that deliver the drugs to the targeted area.
+The nanoparticle vessels, which can be made of organic or synthetic components, can further be functionalized by adjusting their size, shape, surface charge, and surface attachments (proteins, coatings, polymers, etc.).
+In vivo imaging is also a key part in nanomedicine, as nanoparticles can be used as contrast agents for common imaging techniques such as computed tomography (CT), magnetic resonance imaging (MRI), and positron emission tomography (PET).
+^ a b c "Nanotechnology - 2nd Edition" .
+www.elsevier.com .
+Retrieved 2021-04-09 .
+^ "Nanoparticles for Biomedical Applications - 1st Edition" .
+www.elsevier.com .
+Retrieved 2021-04-09 .
+^ a b "Nanoelectronics - an overview | ScienceDirect Topics" .
+www.sciencedirect.com .
+Retrieved 2021-04-09 .
+^ a b Burke, Andrew; Ding, Xuanfeng; Singh, Ravi; Kraft, Robert A.; Levi-Polyachenko, Nicole; Rylander, Marissa Nichole; Szot, Chris; Buchanan, Cara; Whitney, Jon; Fisher, Jessica; Hatcher, Heather C. (2009-08-04).
+"Long-term survival following a single treatment of kidney tumors with multiwalled carbon nanotubes and near-infrared radiation" .
+Proceedings of the National Academy of Sciences of the United States of America .
+106 (31): 12897–12902.
+Bibcode : 2009PNAS..10612897B .
+doi : 10.1073/pnas.0905195106 .
+ISSN 1091-6490 .
+PMC 2722274 .
+PMID 19620717 .
+^ Tajabadi, Mahdis (2019-06-28).
+"Application of Carbon Nanotubes in Breast Cancer Therapy" .
+Drug Research .
+doi : 10.1055/a-0945-1469 .
+ISSN 2194-9387 .
+PMID 31252436 .
+^ "MIT engineers develop "blackest black" material to date" .
+MIT News | Massachusetts Institute of Technology .
+Retrieved 2021-04-10 .
+^ merickso@stanford.edu, By Mandy Erickson Mandy Erickson is a science writer in the Office of Communications Email her at.
+"Nanotherapy reduces plaque buildup in mouse arteries" .
+News Center .
+Retrieved 2021-04-10 .
+^ "Carbon nanotubes and the pursuit of the ultimate body armor" .
+Nanowerk .
+Retrieved 2021-04-10 .
+^ "eLCOSH : Nanotechnology and Construction" .
+www.elcosh.org .
+Retrieved 2021-04-09 .
+^ a b c d "How Nanotechnology Can Change the Concrete World Successfully mimicking nature's bottom-up construction processes is one of the most promising directions" .
+ResearchGate .
+Retrieved 2021-04-09 .
+^ a b c Mohan, Prem (2011-09-17).
+"CIVIL ENGINEERING SEMINAR TOPICS: SIGNIFICANCE OF NANOTECHNOLOGY IN CONSTRUCTION ENGINEERING" .
+CIVIL ENGINEERING SEMINAR TOPICS .
+Retrieved 2021-04-09 .
+^ a b c Raza, Hassan (2019-11-26).
+Nanoelectronics Fundamentals: Materials, Devices and Systems .
+Springer Nature.
+ISBN 978-3-030-32573-2 .
+^ a b c Pelaz, Beatriz; Alexiou, Christoph; Alvarez-Puebla, Ramon A.; Alves, Frauke; Andrews, Anne M.; Ashraf, Sumaira; Balogh, Lajos P.; Ballerini, Laura; Bestetti, Alessandra; Brendel, Cornelia; Bosi, Susanna (2017-03-28).
+"Diverse Applications of Nanomedicine" .
+ACS Nano .
+11 (3): 2313–2381.
+doi : 10.1021/acsnano.6b06040 .
+ISSN 1936-086X .
+PMC 5371978 .
+PMID 28290206 .
+^ Soares, Sara; Sousa, João; Pais, Alberto; Vitorino, Carla (2018).
+"Nanomedicine: Principles, Properties, and Regulatory Issues" .
+Frontiers in Chemistry .
+6 : 360.
+Bibcode : 2018FrCh....6..360V .
+doi : 10.3389/fchem.2018.00360 .
+ISSN 2296-2646 .
+PMC 6109690 .
+PMID 30177965 .
+^ a b "Nanoparticles for Biomedical Applications - 1st Edition" .
+www.elsevier.com .
+Retrieved 2021-04-02 .
+^ Zhou, Yiqun; Peng, Zhili; Seven, Elif S.; Leblanc, Roger M. (2018-01-28).
+"Crossing the blood-brain barrier with nanoparticles" .
+Journal of Controlled Release .
+270 : 290–303.
+doi : 10.1016/j.jconrel.2017.12.015 .
+ISSN 0168-3659 .
+PMID 29269142 .
+S2CID 25472949 .
+^ Park, Kyung Soo; Sun, Xiaoqi; Aikins, Marisa E.; Moon, James J.
+(2021-02-01).
+"Non-viral COVID-19 vaccine delivery systems" .
+Advanced Drug Delivery Reviews .
+169 : 137–151.
+doi : 10.1016/j.addr.2020.12.008 .
+ISSN 0169-409X .
+PMC 7744276 .
+PMID 33340620 .
+^ Debele, Tilahun Ayane; Yeh, Cheng-Fa; Su, Wen-Pin (2020-12-15).
+"Cancer Immunotherapy and Application of Nanoparticles in Cancers Immunotherapy as the Delivery of Immunotherapeutic Agents and as the Immunomodulators" .
+Cancers .
+12 (12): 3773. doi : 10.3390/cancers12123773 .
+ISSN 2072-6694 .
+PMC 7765190 .
+PMID 33333816 .
+^ Serrano, Elena; Rus, Guillermo; García-Martínez, Javier (2009-12-01).
+"Nanotechnology for sustainable energy" .
+Renewable and Sustainable Energy Reviews .
+13 (9): 2373–2384.
+doi : 10.1016/j.rser.2009.06.003 .
+ISSN 1364-0321 .
+^ a b c "Nanotechnology Phenomena in the Light of the Solar Energy" .
+ResearchGate .
+Retrieved 2021-04-09 .
+^ a b c Sarno, Maria (2020-01-01).
+"Nanotechnology in energy storage: the supercapacitors" .
+Studies in Surface Science and Catalysis .
+179 : 431–458.
+doi : 10.1016/B978-0-444-64337-7.00022-7 .
+ISBN 9780444643377 .
+ISSN 0167-2991 .
+^ a b c Hussein, Ahmed Kadhim (2015-02-01).
+"Applications of nanotechnology in renewable energies—A comprehensive overview and understanding" .
+Renewable and Sustainable Energy Reviews .
+42 : 460–476.
+doi : 10.1016/j.rser.2014.10.027 .
+ISSN 1364-0321 .
+^ a b Li, Yong; Yang, Jie; Song, Jian (2017-03-01).
+"Nano energy system model and nanoscale effect of graphene battery in renewable energy electric vehicle" .
+Renewable and Sustainable Energy Reviews .
+69 : 652–663.
+doi : 10.1016/j.rser.2016.11.118 .
+ISSN 1364-0321 .
+^ Xu, Hanyan; Chen, Hao; Lai, Haiwen; Li, Zheng; Dong, Xiaozhong; Cai, Shengying; Chu, Xingyuan; Gao, Chao (2020-06-01).
+"Capacitive charge storage enables an ultrahigh cathode capacity in aluminum-graphene battery" .
+Journal of Energy Chemistry .
+45 : 40–44.
+doi : 10.1016/j.jechem.2019.09.025 .
+ISSN 2095-4956 .
+NewPP limit report Parsed by mw2387 Cached time: 20230310122053 Cache expiry: 1814400 Reduced expiry: false Complications: CPU time usage: 0.362 seconds Real time usage: 0.421 seconds Preprocessor visited node count: 1626/1000000 Post‐expand include size: 63438/2097152 bytes Template argument size: 576/2097152 bytes Highest expansion depth: 8/100 Expensive parser function count: 2/500 Unstrip recursion depth: 1/20 Unstrip post‐expand size: 88859/5000000 bytes Lua time usage: 0.237/10.000 seconds Lua memory usage: 7079001/52428800 bytes Number of Wikibase entities loaded: 0/400 Transclusion expansion time report (%,ms,calls,template) 100.00% 369.782 1 -total 59.48% 219.960 1 Template:Reflist 26.71% 98.765 11 Template:Cite_web 22.75% 84.141 1 Template:Nanotechnology_implications 22.23% 82.202 1 Template:Sidebar 22.13% 81.820 12 Template:Cite_journal 12.54% 46.376 1 Template:Short_description 7.22% 26.682 2 Template:Pagetype 3.77% 13.934 2 Template:Portal-inline 2.68% 9.908 3 Template:Main_other Saved in parser cache with key enwiki:pcache:idhash:38324933-0!canonical and timestamp 20230310122053 and revision id 1113772638.
+Rendering was triggered because: page-view esi <esi:include src="/esitest-fa8a495983347898/content" /> Retrieved from " https://en.wikipedia.org/w/index.php?title=Applications_of_nanotechnology&oldid=1113772638 " Category : Nanotechnology Hidden categories: Articles with short description Short description is different from Wikidata This page was last edited on 3 October 2022, at 05:40 (UTC) .
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy .
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Mobile view Developers Statistics Cookie statement

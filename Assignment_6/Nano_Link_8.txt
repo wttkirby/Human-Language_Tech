@@ -1,0 +1,345 @@
+ Jump to content Toggle sidebar Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Tools What links here Related changes Upload file Special pages Permanent link Page information Cite this page Wikidata item Print/export Download as PDF Printable version Languages On this Wikipedia the language links are at the top of the page across from the article title.
+Go to top .
+CentralNotice Contents move to sidebar hide (Top) 1 Early uses of nanomaterials 2 Conceptual origins Toggle Conceptual origins subsection 2.1 Richard Feynman 2.2 Norio Taniguchi 2.3 K. Eric Drexler 3 Experimental research and advances Toggle Experimental research and advances subsection 3.1 Invention of scanning probe microscopy 3.2 Advances in interface and colloid science 3.3 Discovery of fullerenes 4 Government and corporate support Toggle Government and corporate support subsection 4.1 National Nanotechnology Initiative 5 Growing public awareness and controversy Toggle Growing public awareness and controversy subsection 5.1 "Why the future doesn't need us" 5.2 Prey 5.3 Drexler–Smalley debate 5.4 Royal Society report on the implications of nanotechnology 6 Initial commercial applications 7 See also 8 References 9 External links Toggle the table of contents Toggle the table of contents History of nanotechnology 3 languages العربية Español Italiano Edit links Article Talk English Read Edit View history More Read Edit View history From Wikipedia, the free encyclopedia Overview of the history of nanotechnology Part of a series of articles on Nanotechnology History Organizations Popular culture Outline Impact and applications Nanomedicine Nanotoxicology Green nanotechnology Hazards Regulation Nanomaterials Fullerenes Carbon nanotubes Nanoparticles Molecular self-assembly Self-assembled monolayer Supramolecular assembly DNA nanotechnology Nanoelectronics Molecular scale electronics Molecular logic gate Nanolithography Moore's law Semiconductor device fabrication Semiconductor scale examples Nanometrology Atomic force microscopy Scanning tunneling microscope Electron microscope Super resolution microscopy Nanotribology Molecular nanotechnology Molecular assembler Nanorobotics Mechanosynthesis Molecular engineering Science portal Technology portal v t e The history of nanotechnology traces the development of the concepts and experimental work falling under the broad category of nanotechnology .
+Although nanotechnology is a relatively recent development in scientific research, the development of its central concepts happened over a longer period of time.
+The emergence of nanotechnology in the 1980s was caused by the convergence of experimental advances such as the invention of the scanning tunneling microscope in 1981 and the discovery of fullerenes in 1985, with the elucidation and popularization of a conceptual framework for the goals of nanotechnology beginning with the 1986 publication of the book Engines of Creation .
+The field was subject to growing public awareness and controversy in the early 2000s, with prominent debates about both its potential implications as well as the feasibility of the applications envisioned by advocates of molecular nanotechnology , and with governments moving to promote and fund research into nanotechnology.
+The early 2000s also saw the beginnings of commercial applications of nanotechnology , although these were limited to bulk applications of nanomaterials rather than the transformative applications envisioned by the field.
+Early uses of nanomaterials The term "nanotechnology" (which paralleled Taniguchi's "nano-technology" ) was independently applied by Drexler in his 1986 book Engines of Creation: The Coming Era of Nanotechnology , which proposed the idea of a nanoscale "assembler" which would be able to build a copy of itself and of other items of arbitrary complexity.
+He also first published the term " grey goo " to describe what might happen if a hypothetical self-replicating machine , capable of independent operation, were constructed and released.
+Drexler's vision of nanotechnology is often called " Molecular Nanotechnology " (MNT) or "molecular manufacturing."
+His 1991 Ph.D. work at the MIT Media Lab was the first doctoral degree on the topic of molecular nanotechnology and (after some editing) his thesis, "Molecular Machinery and Manufacturing with Applications to Computation," In nanoelectronics , nanoscale thickness was demonstrated in the gate oxide and thin films used in transistors as early as the 1960s, but it was not until the late 1990s that MOSFETs (metal–oxide–semiconductor field-effect transistors) with nanoscale gate length were demonstrated.
+Nanotechnology and nanoscience got a boost in the early 1980s with two major developments: the birth of cluster science and the invention of the scanning tunneling microscope (STM).
+These developments led to the discovery of fullerenes in 1985 and the structural assignment of carbon nanotubes in 1991.
+The development of FinFET in the 1990s aldo laid the foundations for modern nanoelectronic semiconductor device fabrication .
+Invention of scanning probe microscopy Gerd Binnig (left) and Heinrich Rohrer (right) won the 1986 Nobel Prize in Physics for their 1981 invention of the scanning tunneling microscope .
+The scanning tunneling microscope , an instrument for imaging surfaces at the atomic level, was developed in 1981 by Gerd Binnig and Heinrich Rohrer at IBM Zurich Research Laboratory , for which they were awarded the Nobel Prize in Physics in 1986.
+Harry Kroto (left) won the 1996 Nobel Prize in Chemistry along with Richard Smalley (pictured below) and Robert Curl for their 1985 discovery of buckminsterfullerene , while Sumio Iijima (right) won the inaugural 2008 Kavli Prize in Nanoscience for his 1991 discovery of carbon nanotubes .
+Fullerenes were discovered in 1985 by Harry Kroto , Richard Smalley , and Robert Curl , who together won the 1996 Nobel Prize in Chemistry .
+Smalley's research in physical chemistry investigated formation of inorganic and semiconductor clusters using pulsed molecular beams and time of flight mass spectrometry .
+As a consequence of this expertise, Curl introduced him to Kroto in order to investigate a question about the constituents of astronomical dust.
+These are carbon rich grains expelled by old stars such as R Corona Borealis.
+The result of this collaboration was the discovery of C 60 and the fullerenes as the third allotropic form of carbon.
+Subsequent discoveries included the endohedral fullerenes , and the larger family of fullerenes the following year.
+and Iijima at NEC of single-walled carbon nanotubes and methods to specifically produce them by adding transition-metal catalysts to the carbon in an arc discharge.
+In the early 1990s Huffman and Kraetschmer, of the University of Arizona , discovered how to synthesize and purify large quantities of fullerenes.
+This opened the door to their characterization and functionalization by hundreds of investigators in government and industrial laboratories.
+Shortly after, rubidium doped C 60 was found to be a mid temperature (Tc = 32 K) superconductor.
+At a meeting of the Materials Research Society in 1992, Dr. T. Ebbesen (NEC) described to a spellbound audience his discovery and characterization of carbon nanotubes.
+This event sent those in attendance and others downwind of his presentation into their laboratories to reproduce and push those discoveries forward.
+Using the same or similar tools as those used by Huffman and Kratschmer, hundreds of researchers further developed the field of nanotube-based nanotechnology.
+Government and corporate support Its goals are to advance a world-class nanotechnology research and development (R&D) program, foster the transfer of new technologies into products for commercial and public benefit, develop and sustain educational resources, a skilled workforce, and the supporting infrastructure and tools to advance nanotechnology, and support responsible development of nanotechnology.
+The initiative was spearheaded by Mihail Roco , who formally proposed the National Nanotechnology Initiative to the Office of Science and Technology Policy during the Clinton administration in 1999, and was a key architect in its development.
+He is currently the Senior Advisor for Nanotechnology at the National Science Foundation , as well as the founding chair of the National Science and Technology Council subcommittee on Nanoscale Science, Engineering and Technology.
+Main article: Prey (novel) Prey is a 2002 novel by Michael Crichton which features an artificial swarm of nanorobots which develop intelligence and threaten their human inventors.
+The novel generated concern within the nanotechnology community that the novel could negatively affect public perception of nanotechnology by creating fear of a similar scenario in real life.
+Smalley criticized Drexler's work on nanotechnology as naive, arguing that chemistry is extremely complicated, reactions are hard to control, and that a universal assembler is science fiction.
+Smalley believed that such assemblers were not physically possible and introduced scientific objections to them.
+His two principal technical objections, which he had termed the “fat fingers problem" and the "sticky fingers problem”, argued against the feasibility of molecular assemblers being able to precisely select and place individual atoms.
+He also believed that Drexler’s speculations about apocalyptic dangers of molecular assemblers threaten the public support for development of nanotechnology.
+Smalley first argued that "fat fingers" made MNT impossible.
+He later argued that nanomachines would have to resemble chemical enzymes more than Drexler's assemblers and could only work in water.
+He believed these would exclude the possibility of "molecular assemblers" that worked by precision picking and placing of individual atoms.
+Also, Smalley argued that nearly all of modern chemistry involves reactions that take place in a solvent (usually water), because the small molecules of a solvent contribute many things, such as lowering binding energies for transition states.
+Since nearly all known chemistry requires a solvent, Smalley felt that Drexler's proposal to use a high vacuum environment was not feasible.
+Smalley also believed that Drexler's speculations about apocalyptic dangers of self-replicating machines that have been equated with "molecular assemblers" would threaten the public support for development of nanotechnology.
+To address the debate between Drexler and Smalley regarding molecular assemblers Chemical & Engineering News published a point-counterpoint consisting of an exchange of letters that addressed the issues.
+In fact, the word " Drexler " appears only once in the body of the report (in passing), and "molecular manufacturing" or " molecular nanotechnology " not at all.
+The report covers various risks of nanoscale technologies, such as nanoparticle toxicology.
+It also provides a useful overview of several nanoscale fields.
+The report contains an annex (appendix) on grey goo , which cites a weaker variation of Richard Smalley 's contested argument against molecular manufacturing.
+It concludes that there is no evidence that autonomous, self replicating nanomachines will be developed in the foreseeable future, and suggests that regulators should be more concerned with issues of nanoparticle toxicology.
+Initial commercial applications ^ Kokarneswaran, M., Selvaraj, P., Ashokan, T., Mohan, N., Chadrasekaran V (2020).
+"Discovery of carbon nanotubes in sixth century BC potteries from Keeladi, India" .
+Scientific Reports .
+10 (1): 19786.
+Bibcode : 2020NatSR..1019786K .
+doi : 10.1038/s41598-020-76720-z .
+PMC 7666134 .
+PMID 33188244 .
+{{ cite journal }} : CS1 maint: multiple names: authors list ( link ) ^ Sanderson, Katharine (2006-11-15).
+"Sharpest cut from nanotube sword" .
+Nature News : news061113–11.
+doi : 10.1038/news061113-11 .
+S2CID 136774602 .
+^ Reiss, Gunter; Hutten, Andreas (2010).
+"Magnetic Nanoparticles" .
+In Sattler, Klaus D.
+(ed.).
+Handbook of Nanophysics: Nanoparticles and Quantum Dots .
+CRC Press.
+pp. 2–1.
+ISBN 9781420075458 .
+^ a b Khan, Firdos Alam (2012).
+Biotechnology Fundamentals .
+CRC Press.
+p. 328.
+ISBN 9781439820094 .
+^ Rawson, Philip S. (1984).
+Ceramics .
+University of Pennsylvania Press.
+ISBN 978-0-8122-1156-6 .
+^ Gribbin, John; Gribbin, Mary (1997).
+Richard Feynman: A Life in Science .
+Dutton.
+p. 170 .
+ISBN 978-0-452-27631-4 .
+^ Hapgood, Fred (November 1986). "
+"Nanotechnology" / "Tinytech" ".
+Omni : 56.
+^ Drexler, Eric (15 December 2009).
+"The promise that launched the field of nanotechnology" .
+Metamodern: The Trajectory of Technology.
+Archived from the original on 14 July 2011 .
+Retrieved 13 May 2011 .
+^ Toumey, Chris (2005).
+"Apostolic Succession" (PDF) .
+Engineering & Science .
+1/2 : 16–23.
+^ Toumey, Chris (2008).
+"Reading Feynman into Nanotechnology: A Text for a New Science" (PDF) .
+Techné .
+13 (3): 133–168.
+Archived from the original (PDF) on 2009-09-19.
+^ Milburn, Colin (2008).
+Nanovision: Engineering the Future .
+Duke University Press.
+ISBN 978-0-8223-4265-6 .
+^ Taniguchi, Norio (1974).
+"On the Basic Concept of 'Nano-Technology' ".
+Proceedings of the International Conference on Production Engineering, Tokyo, 1974, Part II .
+^ Bassett, Deborah R. (2010).
+"Taniguchi, Norio" .
+In Guston, David H.
+(ed.).
+Encyclopedia of nanoscience and society .
+London: SAGE.
+p. 747.
+ISBN 9781452266176 .
+Retrieved 3 August 2014 .
+^ Koodali, Ranjit T.; Klabunde, Kenneth J.
+(2012).
+"Nanotechnology: Fandamental Principles and Applications" .
+In Kent, James A.
+(ed.).
+Handbook of industrial chemistry and biotechnology, volume 1 (12th ed.).
+New York: Springer.
+p. 250.
+ISBN 9781461442592 .
+Retrieved 3 August 2014 .
+^ Maynard, edited by Graeme A. Hodge, Diana M. Bowman, Andrew D. (2010).
+"Tracing and disputing the story of nanotechnology" .
+In Hodge, Graeme A.; Bowman, Diana M.; Maynard, Andrew D.
+(eds.).
+International handbook on regulating nanotechnologies .
+Cheltenham, UK: Edward Elgar.
+p. 54.
+ISBN 9781849808125 .
+Retrieved 4 August 2014 .
+{{ cite book }} : |first1= has generic name ( help ) ^ Drexler, K. E. (1981).
+"Molecular engineering: An approach to the development of general capabilities for molecular manipulation" .
+Proceedings of the National Academy of Sciences of the United States of America .
+78 (9): 5275–5278.
+Bibcode : 1981PNAS...78.5275D .
+doi : 10.1073/pnas.78.9.5275 .
+PMC 348724 .
+PMID 16593078 .
+^ Drexler, K. Eric.
+Molecular Machinery and Manufacturing with Applications to Computation (PDF) (Ph.D. thesis).
+Massachusetts Institute of Technology.
+Archived from the original (PDF) on 2008-09-08.
+^ Drexler, K. Eric (1992).
+Nanosystems: Molecular Machinery, Manufacturing, and Computation .
+Wiley.
+ISBN 978-0-471-57518-4 .
+Retrieved 14 May 2011 .
+^ Binnig, G.; Rohrer, H. (1986).
+"Scanning tunneling microscopy".
+IBM Journal of Research and Development .
+30 (4): 355–69.
+^ "Press Release: the 1996 Nobel Prize in Physics" .
+Nobelprize.org.
+15 October 1986 .
+Retrieved 12 May 2011 .
+^ Shankland, Stephen (28 September 2009).
+"IBM's 35 atoms and the rise of nanotech" .
+CNET .
+Retrieved 12 May 2011 .
+^ "The Kavli Prize Laureates 2010" .
+The Norwegian Academy of Science and Letters.
+Archived from the original on 12 May 2011 .
+Retrieved 13 May 2011 .
+^ Efremov, I.F.
+(1976).
+"Periodic Colloidal Structures" .
+In Matijevic, E.
+(ed.).
+Surface and Colloid Science .
+Vol. 8.
+New York: Wiley.
+^ Lyklema, J.
+(2000).
+Fundamentals of Interface and Colloid Science .
+Academic Press.
+ISBN 978-0-12-460523-7 .
+Archived from the original on 2012-10-12 .
+Retrieved 2011-05-12 .
+^ Zsigmondy, R. (1914).
+Colloids and the Ultramicroscope .
+New York: J.Wiley and Sons .
+Retrieved 10 May 2011 .
+^ Derjaguin, B. V.; Titijevskaia, A. S.; Abricossova, I. I.; Malkina, A. D. (1954).
+"Investigations of the forces of interaction of surfaces in different media and their application to the problem of colloid stability".
+Discussions of the Faraday Society .
+18 : 24. doi : 10.1039/DF9541800024 .
+^ "History of Atomic Layer Deposition" .
+Finnish Micro & Nano Technology Network.
+Archived from the original on 28 September 2007.
+^ Kroto, H. W.; Heath, J. R.; O'Brien, S. C.; Curl, R. F.; Smalley, R. E. (1985).
+"C 60 : Buckminsterfullerene".
+Nature .
+318 (6042): 162–163.
+Bibcode : 1985Natur.318..162K .
+doi : 10.1038/318162a0 .
+S2CID 4314237 .
+^ Adams, W Wade; Baughman, Ray H (2005).
+"Retrospective: Richard E. Smalley (1943–2005)".
+Science .
+Vol.
+310, no.
+5756 (published Dec 23, 2005).
+p. 1916. doi : 10.1126/science.1122120 .
+PMID 16373566 .
+^ Monthioux, Marc; Kuznetsov, V (2006).
+"Who should be given the credit for the discovery of carbon nanotubes?"
+(PDF) .
+Carbon .
+44 (9): 1621–1623.
+doi : 10.1016/j.carbon.2006.03.019 .
+^ Iijima, Sumio (7 November 1991).
+"Helical microtubules of graphitic carbon".
+Nature .
+354 (6348): 56–58.
+Bibcode : 1991Natur.354...56I .
+doi : 10.1038/354056a0 .
+S2CID 4302490 .
+^ Mintmire, J.W.
+; Dunlap, BI; White, CT (1992).
+"Are Fullerene Tubules Metallic?".
+Physical Review Letters .
+68 (5): 631–634.
+Bibcode : 1992PhRvL..68..631M .
+doi : 10.1103/PhysRevLett.68.631 .
+PMID 10045950 .
+^ Bethune, D. S.; Klang, C. H.; De Vries, M. S.; Gorman, G.; Savoy, R.; Vazquez, J.; Beyers, R. (1993).
+"Cobalt-catalyzed growth of carbon nanotubes with single-atomic-layer walls".
+Nature .
+363 (6430): 605–607.
+Bibcode : 1993Natur.363..605B .
+doi : 10.1038/363605a0 .
+S2CID 4321984 .
+^ Iijima, Sumio; Ichihashi, Toshinari (1993).
+"Single-shell carbon nanotubes of 1-nm diameter".
+Nature .
+363 (6430): 603–605.
+Bibcode : 1993Natur.363..603I .
+doi : 10.1038/363603a0 .
+S2CID 4314177 .
+^ "The Discovery of Single-Wall Carbon Nanotubes at IBM" .
+IBM.
+2016-07-25.
+^ "About the NNI | Nano" .
+^ "Dr. Mihail C. Roco, Senior Advisor for Nanotechnology, National Science Foundation" .
+National Science Foundation .
+Archived from the original on 11 April 2010 .
+Retrieved 8 November 2009 .
+^ "President Clinton's Address to Caltech on Science and Technology" .
+California Institute of Technology.
+Archived from the original on 7 August 2011 .
+Retrieved 13 May 2011 .
+^ Jones, Richard M. (21 January 2000).
+"President Requests Significant Increase in FY 2001 Research Budget" .
+FYI: The AIP Bulletin of Science Policy News .
+American Institute of Physics .
+Retrieved 13 May 2011 .
+^ "21st Century Nanotechnology Research and Development Act (Public Law 108-153)" .
+United States Government Printing Office .
+Retrieved 12 May 2011 .
+^ "Remarks Prepared for Delivery: National Nanotechnology Initiative Conference, Senator George Allen, Thursday, April 1, 2004" .
+United States National Nanotechnology Initiative.
+Archived from the original on 27 September 2007.
+^ "National Nanotechnology Initiative: FY 2009 Budget & Highlights" (PDF) .
+United States National Nanotechnology Initiative.
+Archived from the original (PDF) on 27 May 2010.
+^ Brown, John Seely and Duguid, Paul (13 April 2000).
+"A Response to Bill Joy and the Doom-and-Gloom Technofuturists" (PDF) .
+Archived from the original (PDF) on 31 December 2003 .
+Retrieved 12 May 2011 .
+{{ cite web }} : CS1 maint: multiple names: authors list ( link ) ^ Edwards, Steven A.
+(2006).
+The Nanotech Pioneers: Where Are They Taking Us?
+.
+Weinheim: Wiley-VCH.
+pp.
+22 –23.
+^ Smalley, Richard E. (September 2001).
+"Of Chemistry, Love and Nanobots" .
+Scientific American .
+285 (3): 76–7.
+Bibcode : 2001SciAm.285c..76S .
+doi : 10.1038/scientificamerican0901-76 .
+PMID 11524973 .
+Archived from the original on 2012-07-23 .
+Retrieved 2011-05-12 .
+^ a b Drexler, K. Eric; Forrest, David; Freitas, Robert A.; Hall, J. Storrs; Jacobstein, Neil; McKendree, Tom; Merkle, Ralph; Peterson, Christine (2001).
+"Debate About Assemblers — Smalley Rebuttal" .
+Institute for Molecular Manufacturing .
+Retrieved 9 May 2010 .
+^ a b c "Nanotechnology: Drexler and Smalley make the case for and against 'molecular assemblers' " .
+Chemical & Engineering News .
+81 (48): 37–42.
+1 December 2003. doi : 10.1021/cen-v081n036.p037 .
+Retrieved 9 May 2010 .
+^ Phoenix, Chris (December 2003).
+"Of Chemistry, Nanobots, and Policy" .
+Center for Responsible Nanotechnology .
+Retrieved 12 May 2011 .
+^ Kurzweil, Ray (2005).
+The Singularity Is Near .
+pp.
+193–196 .
+ISBN 978-0-670-03384-3 .
+^ "Nanoscience and nanotechnologies: opportunities and uncertainties" .
+Royal Society and Royal Academy of Engineering.
+July 2004.
+Archived from the original on 3 July 2018 .
+Retrieved 13 May 2011 .
+^ "Royal Society in Denial" .
+Center for Responsible Nanotechnology.
+31 July 2004 .
+Retrieved 13 May 2011 .
+^ "Nanotechnology Information Center: Properties, Applications, Research, and Safety Guidelines" .
+American Elements .
+Retrieved 13 May 2011 .
+^ "Analysis: This is the first publicly available on-line inventory of nanotechnology-based consumer products" .
+The Project on Emerging Nanotechnologies.
+2008 .
+Retrieved 13 May 2011 .
+^ Berube, David (2006).
+Nano-Hype: The Truth Behind the Nanotechnology Buzz .
+Amherst, NY: Prometheus Books.
+Archived from the original on 2017-10-28 .
+Retrieved 2020-01-15 .
+External links T. Mappes; et al.
+(2012).
+"The Invention of Immersion Ultramicroscopy in 1912—The Birth of Nanotechnology?".
+Angewandte Chemie International Edition .
+51 (45): 11208–11212.
+doi : 10.1002/anie.201204688 .
+PMID 23065955 .
+Who Invented Nanotechnology What is Nanotechnology with Full Information How to make a career in technology v t e History of physics ( timeline ) Classical theories ( timeline ) Astronomy timeline Solar system formation Electromagnetism timeline Electrical engineering Field theory Maxwell's equations Fluid mechanics Gravitational theory timeline Material science timeline Metamaterials Optics Thermodynamics timeline Energy Entropy Perpetual motion Variational principle Modern physics Cosmological theories timeline Big Bang theory General relativity tests Geophysics Nuclear physics Nuclear fission Nuclear fusion Nuclear power Nuclear weapons Quantum mechanics timeline Quantum field theory Subatomic physics timeline Superconductivity Special relativity Lorentz transformations tests Spectroscopy Recent developments Quantum information timeline Loop quantum gravity Nanotechnology String theory On specific discoveries Cosmic microwave background Graphene Subatomic particles timeline Neutron Speed of light By periods Golden age of physics Golden age of cosmology Noisy intermediate-scale quantum era Medieval Islamic world Astronomy NewPP limit report Parsed by mw2413 Cached time: 20230310104043 Cache expiry: 1814400 Reduced expiry: false Complications: CPU time usage: 0.657 seconds Real time usage: 0.771 seconds Preprocessor visited node count: 3555/1000000 Post‐expand include size: 140636/2097152 bytes Template argument size: 1744/2097152 bytes Highest expansion depth: 12/100 Expensive parser function count: 12/500 Unstrip recursion depth: 1/20 Unstrip post‐expand size: 183266/5000000 bytes Lua time usage: 0.418/10.000 seconds Lua memory usage: 8169564/52428800 bytes Number of Wikibase entities loaded: 0/400 Transclusion expansion time report (%,ms,calls,template) 100.00% 649.422 1 -total 54.94% 356.762 1 Template:Reflist 25.26% 164.052 18 Template:Cite_journal 13.19% 85.634 1 Template:Nanotech 12.52% 81.327 1 Template:Sidebar 11.95% 77.608 20 Template:Cite_web 9.94% 64.526 15 Template:Cite_book 8.66% 56.240 1 Template:Short_description 4.91% 31.877 2 Template:Pagetype 4.74% 30.799 7 Template:Main_article Saved in parser cache with key enwiki:pcache:idhash:7064233-0!canonical and timestamp 20230310104042 and revision id 1136175028.
+Rendering was triggered because: page-view esi <esi:include src="/esitest-fa8a495983347898/content" /> Retrieved from " https://en.wikipedia.org/w/index.php?title=History_of_nanotechnology&oldid=1136175028 " Categories : History of technology Nanotechnology Hidden categories: CS1 maint: multiple names: authors list CS1 errors: generic name Articles with short description Short description is different from Wikidata All articles with unsourced statements Articles with unsourced statements from June 2014 This page was last edited on 29 January 2023, at 02:52 (UTC) .
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy .
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Mobile view Developers Statistics Cookie statement

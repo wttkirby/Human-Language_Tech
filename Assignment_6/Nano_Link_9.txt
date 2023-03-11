@@ -1,0 +1,234 @@
+ Jump to content Toggle sidebar Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Tools What links here Related changes Upload file Special pages Permanent link Page information Cite this page Wikidata item Print/export Download as PDF Printable version Languages On this Wikipedia the language links are at the top of the page across from the article title.
+Go to top .
+CentralNotice Contents move to sidebar hide (Top) 1 Overview 2 Health impact Toggle Health impact subsection 2.1 Medical applications 2.2 Health hazards 3 Environmental impact Toggle Environmental impact subsection 3.1 Environmental applications 3.2 Pollution 4 Social impact 5 Regulation 6 See also 7 References 8 Further reading 9 External links Toggle the table of contents Toggle the table of contents Impact of nanotechnology 9 languages العربية Bosanski Ελληνικά Français Italiano 日本語 Português Slovenščina Türkçe Edit links Article Talk English Read Edit View history More Read Edit View history From Wikipedia, the free encyclopedia Part of a series of articles on the Impact of nanotechnology Health and safety Hazards Nanomedicine Nanotoxicology Carbon nanomaterials Environmental Green nanotechnology Energy applications Pollution Other topics Applications Industrial applications Societal impact Regulation Science portal Technology portal v t e Part of a series of articles on Nanotechnology History Organizations Popular culture Outline Impact and applications Nanomedicine Nanotoxicology Green nanotechnology Hazards Regulation Nanomaterials Fullerenes Carbon nanotubes Nanoparticles Molecular self-assembly Self-assembled monolayer Supramolecular assembly DNA nanotechnology Nanoelectronics Molecular scale electronics Molecular logic gate Nanolithography Moore's law Semiconductor device fabrication Semiconductor scale examples Nanometrology Atomic force microscopy Scanning tunneling microscope Electron microscope Super resolution microscopy Nanotribology Molecular nanotechnology Molecular assembler Nanorobotics Mechanosynthesis Molecular engineering Science portal Technology portal v t e The impact of nanotechnology extends from its medical , ethical , mental , legal and environmental applications, to fields such as engineering, biology, chemistry, computing, materials science, and communications.
+Major benefits of nanotechnology include improved manufacturing methods, water purification systems, energy systems, physical enhancement , nanomedicine , better food production methods, nutrition and large-scale infrastructure auto-fabrication.
+This section does not cite any sources .
+Please help improve this section by adding citations to reliable sources .
+Unsourced material may be challenged and removed .
+( June 2016 ) ( Learn how and when to remove this template message ) The presence of nanomaterials (materials that contain nanoparticles ) is not in itself a threat.
+It is only certain aspects that can make them risky, in particular their mobility and their increased reactivity.
+Only if certain properties of certain nanoparticles were harmful to living beings or the environment would we be faced with a genuine hazard.
+In this case it can be called nanopollution.
+In addressing the health and environmental impact of nanomaterials we need to differentiate between two types of nanostructures: (1) Nanocomposites, nanostructured surfaces and nanocomponents (electronic, optical, sensors etc.
+), where nanoscale particles are incorporated into a substance, material or device (“fixed” nano-particles); and (2) “free” nanoparticles, where at some stage in production or use individual nanoparticles of a substance are present.
+These free nanoparticles could be nanoscale species of elements, or simple compounds, but also complex compounds where for instance a nanoparticle of a particular element is coated with another substance (“coated” nanoparticle or “core-shell” nanoparticle).
+There seems to be consensus that, although one should be aware of materials containing fixed nanoparticles, the immediate concern is with free nanoparticles.
+Nanoparticles are very different from their everyday counterparts, so their adverse effects cannot be derived from the known toxicity of the macro-sized material.
+This poses significant issues for addressing the health and environmental impact of free nanoparticles.
+To complicate things further, in talking about nanoparticles it is important that a powder or liquid containing nanoparticles almost never be monodisperse, but contain instead a range of particle sizes.
+This complicates the experimental analysis as larger nanoparticles might have different properties from smaller ones.
+Also, nanoparticles show a tendency to aggregate, and such aggregates often behave differently from individual nanoparticles.
+Health impact This section needs more medical references for verification or relies too heavily on primary sources .
+Please review the contents of the section and add the appropriate references if you can.
+Unsourced or poorly sourced material may be challenged and removed .
+Find sources: "Impact of nanotechnology" – news · newspapers · books · scholar · JSTOR ( June 2016 ) A video on the health and safety implications of nanotechnology The health impacts of nanotechnology are the possible effects that the use of nanotechnological materials and devices will have on human health .
+As nanotechnology is an emerging field, there is great debate regarding to what extent nanotechnology will benefit or pose risks for human health.
+Nanotechnology's health impacts can be split into two aspects: the potential for nanotechnological innovations to have medical applications to cure disease, and the potential health hazards posed by exposure to nanomaterials .
+In regards to the current global pandemic, researchers, engineers and medical professionals are using an extremely developed collection of nano science and nanotechnology approaches to explore the ways it could potentially help the medical, technical, and scientific communities to help fight the pandemic.
+Nanotechnologies may provide new solutions for the millions of people in developing countries who lack access to basic services, such as safe water, reliable energy, health care, and education.
+The 2004 UN Task Force on Science, Technology and Innovation noted that some of the advantages of nanotechnology include production using little labor, land, or maintenance, high productivity, low cost, and modest requirements for materials and energy.
+However, concerns are frequently raised that the claimed benefits of nanotechnology will not be evenly distributed, and that any benefits (including technical and/or economic) associated with nanotechnology will only reach affluent nations.
+^ "About the National Nanotechnology Initiative" .
+United States National Nanotechnology Initiative.
+2016 .
+Retrieved 4 June 2016 .
+^ Paull, John (2010), Nanotechnology: No Free Lunch , Platter, 1(1) 8-17 ^ Paull, John (2011) "Nanomaterials in food and agriculture: The big issue of small matter for organic food and farming" , In: Neuhoff, Daniel; Halberg, Niels; Rasmussen, I.A.
+; Hermansen, J.E.
+; Ssekyewa, Charles and Sohn, Sang Mok (Eds.)
+Proceedings of the Third Scientific Conference of ISOFAR, ISOFAR, Bonn, 2, pp.
+96-99.
+^ Ruiz‐Hitzky, Eduardo; Darder, Margarita; Wicklein, Bernd; Ruiz‐Garcia, Cristina; Martín‐Sampedro, Raquel; Del Real, Gustavo; Aranda, Pilar (September 3, 2020).
+"Nanotechnology Responses to COVID‐19".
+Advanced Healthcare Materials .
+9 (19): e2000979.
+doi : 10.1002/adhm.202000979 .
+hdl : 10261/219978 .
+PMID 32885616 .
+S2CID 221495539 .
+^ Nanomedicine, Volume I: Basic Capabilities Archived 2015-08-14 at the Wayback Machine , by Robert A. Freitas Jr. 1999, ISBN 1-57059-645-X ^ Wagner V, Dullaart A, Bock AK, Zweck A (2006).
+"The emerging nanomedicine landscape".
+Nat.
+Biotechnol .
+24 (10): 1211–1217.
+doi : 10.1038/nbt1006-1211 .
+PMID 17033654 .
+S2CID 40337130 .
+^ Freitas RA Jr. (2005).
+"What is Nanomedicine?"
+(PDF) .
+Nanomedicine: Nanotechnology, Biology and Medicine .
+1 (1): 2–9.
+doi : 10.1016/j.nano.2004.11.003 .
+PMID 17292052 .
+^ Nanotechnology in Medicine and the Biosciences , by Coombs RRH, Robinson DW.
+1996, ISBN 2-88449-080-9 ^ "Nanomedicine: A matter of rhetoric?"
+.
+Nat Mater .
+5 (4): 243.
+2006.
+Bibcode : 2006NatMa...5..243. .
+doi : 10.1038/nmat1625 .
+PMID 16582920 .
+^ Nanotechnology: A Gentle Introduction to the Next Big Idea , by MA Ratner, D Ratner.
+2002, ISBN 0-13-101400-5 ^ "Current Intelligence Bulletin 63: Occupational Exposure to Titanium Dioxide" (PDF) .
+United States National Institute for Occupational Safety and Health .
+Retrieved 2012-02-19 .
+^ Zhuang Z, Viscusi D (December 7, 2011).
+"CDC - NIOSH Science Blog - Respiratory Protection for Workers Handling Engineering Nanoparticles" .
+National Institute for Occupational Safety and Health .
+Retrieved 2012-08-24 .
+^ Shaffer RE, Rengasamy S (2009).
+"Respiratory protection against airborne nanoparticles: a review".
+J Nanopart Res .
+11 (7): 1661–1672.
+Bibcode : 2009JNR....11.1661S .
+doi : 10.1007/s11051-009-9649-3 .
+S2CID 137579792 .
+^ Rengasamy S, Eimer BC (2011).
+"Total inward leakage of nanoparticles through filtering facepiece respirators" .
+Ann Occup Hyg .
+55 (3): 253–263.
+doi : 10.1093/annhyg/meq096 .
+PMID 21292731 .
+^ Nel, Andre; et al.
+(3 February 2006).
+"Toxic Potential of Materials at the Nanolevel" .
+Science .
+311 (5761): 622–627.
+Bibcode : 2006Sci...311..622N .
+doi : 10.1126/science.1114397 .
+PMID 16456071 .
+S2CID 6900874 .
+^ Magrez, Arnaud; et al.
+(2006).
+"Cellular Toxicity of Carbon-Based Nanomaterials".
+Nano Letters .
+6 (6): 1121–1125.
+Bibcode : 2006NanoL...6.1121M .
+doi : 10.1021/nl060162e .
+PMID 16771565 .
+^ Ding Y, et al.
+(2016).
+"Airborne engineered nanomaterials in the workplace—a review of release and worker exposure during nanomaterial production and handling processes" .
+J.
+Hazard.
+Mater .
+322 (Pt A): 17–28.
+doi : 10.1016/j.jhazmat.2016.04.075 .
+PMID 27181990 .
+^ Kuhlbusch T, et al.
+(2011).
+"Nanoparticle exposure at nanotechnology workplaces: a review" .
+Part.
+Fibre Toxicol .
+8 (1): 22. doi : 10.1186/1743-8977-8-22 .
+PMC 3162892 .
+PMID 21794132 .
+^ Pietroiusti A, Magrini A (2014).
+"Engineered nanoparticles at the workplace: currentknowledge about workers' risk" .
+Occup.
+Med.
+(Lond.)
+.
+64 (5): 319–330.
+doi : 10.1093/occmed/kqu051 .
+PMID 25005544 .
+^ Formoso, P; Muzzalupo, R; Tavano, L; De Filpo, G; Nicoletta, FP (2016).
+"Nanotechnology for the Environment and Medicine".
+Mini Reviews in Medicinal Chemistry .
+16 (8): 668–75.
+doi : 10.2174/1389557515666150709105129 .
+PMID 26955878 .
+^ "Environment and Green Nano - Topics - Nanotechnology Project" .
+Retrieved 11 September 2011 .
+^ What is Green Engineering , US Environmental Protection Agency ^ Kearnes, Matthew; Grove-White, Robin; Macnaghten, Phil; Wilsdon, James; Wynne, Brian (2006).
+"From Bio to Nano: Learning Lessons from the UK Agricultural Biotechnology Controversy" (PDF) .
+Science as Culture .
+Routledge (published December 2006).
+15 (4): 291–307.
+doi : 10.1080/09505430601022619 .
+S2CID 145495343 .
+^ Porcari, Andrea; Borsella, Elisabetta; Benighaus, Christina; Grieger, Khara; Isigonis, Panagiotis; Chakravarty, Somik; Kines, Pete; Jensen, Keld Alstrup (November 21, 2019).
+"From risk perception to risk governance in nanotechnology: a multi-stakeholder study".
+Journal of Nanoparticle Research .
+21 (11): 245.
+Bibcode : 2019JNR....21..245P .
+doi : 10.1007/s11051-019-4689-9 .
+hdl : 10278/3724149 .
+S2CID 208191400 – via SpringerLink.
+^ Macnaghten, Phil; et al.
+(December 2005).
+"Nanotechnology, Governance, and Public Deliberation: What Role for the Social Sciences?"
+(PDF) .
+Science Communication .
+27 (2): 268–291.
+doi : 10.1177/1075547005281531 .
+S2CID 146729271 .
+Archived from the original (PDF) on 2016-03-04 – via Sage Publications.
+^ Rogers-Hayden, Tee; Pidgeon, Nick.
+"Reflecting Upon the UK's Citizens' Jury on Nanotechnologies: NanoJury UK" .
+Nanotechnology Law & Business .
+Archived from the original on 2016-03-03 .
+Retrieved 2018-10-30 .
+^ "University of Westminster, London" (PDF) .
+www.wmin.ac.uk .
+Retrieved 8 April 2018 .
+^ Demos | Publications | Governing at the Nanoscale Archived December 14, 2007, at the Wayback Machine ^ Smith, Erin Geiger (14 February 2013).
+"U.S.-based inventors lead world in nanotechnology patents: study" .
+Technology .
+Reuters .
+Retrieved 4 June 2016 .
+^ Invernizzi N, Foladori G, Maclurcan D (2008).
+"Nanotechnology's Controversial Role for the South".
+Science, Technology and Society .
+13 (1): 123–148.
+doi : 10.1177/097172180701300105 .
+S2CID 145413819 .
+^ He, Xiaojia; Deng, Hua; Hwang, Huey-min (January 2019).
+"The current application of nanotechnology in food and agriculture" .
+Journal of Food and Drug Analysis .
+27 (1): 1–21.
+doi : 10.1016/j.jfda.2018.12.002 .
+PMID 30648562 .
+^ Bowman D, Hodge G (2007).
+"A Small Matter of Regulation: An International Review of Nanotechnology Regulation".
+Columbia Science and Technology Law Review .
+8 : 1–32.
+^ Bowman D; Fitzharris, M (2007).
+"Too Small for Concern?
+Public Health and Nanotechnology".
+Australian and New Zealand Journal of Public Health .
+31 (4): 382–384.
+doi : 10.1111/j.1753-6405.2007.00092.x .
+PMID 17725022 .
+S2CID 37725857 .
+^ Bowman D, Hodge G (2006).
+"Nanotechnology: Mapping the Wild Regulatory Frontier".
+Futures .
+38 (9): 1060–1073.
+doi : 10.1016/j.futures.2006.02.017 .
+^ Felcher, EM.
+(2008).
+The Consumer Product Safety Commission and Nanotechnology Further reading Fritz Allhoff, Patrick Lin, and Daniel Moore, What Is Nanotechnology and Why Does It Matter?
+: From Science to Ethics .
+(Oxford: Wiley-Blackwell, 2010).
+Fritz Allhoff and Patrick Lin (eds.
+), Nanotechnology & Society: Current and Emerging Ethical Issues (Dordrecht: Springer, 2008).
+Fritz Allhoff, Patrick Lin, James Moor, and John Weckert (eds.
+), Nanoethics: The Ethical and Societal Implications of Nanotechnology (Hoboken: John Wiley & Sons, 2007).
+Alternate link .
+Kaldis, Byron. "
+Epistemology of Nanotechnology ".
+Sage Encyclopedia of Nanoscience and Society.
+(Thousand Oaks: CA, Sage, 2010) Approaches to Safe Nanotechnology: An Information Exchange with NIOSH , United States National Institute for Occupational Safety and Health, June 2007, DHHS (NIOSH) publication no.
+2007-123 Mehta, Michael ; Geoffrey Hunt (2006).
+Nanotechnology: Risk, Ethics and Law .
+London: Earthscan.
+- provides a global overview of the state of nanotechnology and society in Europe, the US, Japan and Canada, and examines the ethics, the environmental and public health risks, and the governance and regulation of this technology.
+Dónal P O'Mathúna , Nanoethics: Big Ethical Issues with Small Technology (London & New York: Continuum, 2009).
+External links U.S. National Nanotechnology Initiative, Societal Dimensions Nanotechnology Now USC's Nanoscience & Technology Studies NELSI Global ASU's Center on Nanotechnology and Society UCSB's Center on Nanotechnology and Society The Nanoethics Group Nanotechnology Foresight Nanotech Institute Center for Responsible Nanotechnology The Center for Biological and Environmental Nanotechnology The International Council on Nanotechnology The NanoEthicsBank NanoEthics: Ethics for Technologies that Converge at the Nanoscale National Institute for Occupational Safety and Health Nanotechnology topic page UnderstandingNano European Center for the Sustainable Impact of Nanotechnology Center for the Environmental Implications of NanoTechnology v t e Emerging technologies Topics Collingridge dilemma Differential technological development Disruptive innovation Ephemeralization Ethics Bioethics Cyberethics Neuroethics Robot ethics Exploratory engineering Fictional technology Proactionary principle Technological change Technological unemployment Technological convergence Technological evolution Technological paradigm Technology forecasting Accelerating change Future-oriented technology analysis Horizon scanning Moore's law Technological singularity Technology scouting Technology readiness level Technology roadmap Transhumanism Category List v t e Occupational safety and health Occupational diseases and injuries Acrodynia Asbestosis Asthma Barotrauma Berylliosis Brucellosis Byssinosis ("brown lung") Chalicosis Chronic solvent-induced encephalopathy Chimney sweeps' carcinoma Coalworker's pneumoconiosis ("black lung") Concussions in sport Decompression sickness De Quervain syndrome Erethism Exposure to human nail dust Farmer's lung Fiddler's neck Flock worker's lung Glassblower's cataract Golfer's elbow Hearing loss Hospital-acquired infection Indium lung Laboratory animal allergy Lead poisoning Mesothelioma Metal fume fever Mule spinners' cancer Noise-induced hearing loss Phossy jaw Pneumoconiosis Radium jaw Repetitive strain injury Silicosis Silo-filler's disease Sports injury Surfer's ear Tennis elbow Tinnitus Writer's cramp Occupational hygiene Occupational hazard Biological hazard Chemical hazard Physical hazard Psychosocial hazard Hierarchy of hazard controls Prevention through design Exposure assessment Occupational exposure limit Occupational epidemiology Workplace health surveillance Professions Environmental health Industrial engineering Occupational health nursing Occupational health psychology Occupational medicine Occupational therapist Safety engineering Agencies and organizations Canadian Centre for Occupational Health and Safety European Agency for Safety and Health at Work UK Health and Safety Executive International Labour Organization US National Institute for Occupational Safety and Health US Occupational Safety and Health Administration National Institute for Safety and Health at Work (Spain) WHO Standards Bangladesh Accord ISO 45001 Occupational Safety and Health Convention, 1981 Worker Protection Standard (US) Working Environment Convention, 1977 Safety Checklist Code of practice Contingency plan Diving safety Emergency procedure Emergency evacuation Hazard Hierarchy of hazard controls Hazard elimination Administrative controls Engineering controls Hazard substitution Personal protective equipment Job safety analysis Lockout-tagout Permit To Work Operations manual Redundancy (engineering) Risk assessment Safety culture Standard operating procedure Legislation Diving regulations Occupational Safety and Health Act (United States) Right to sit ( United States ) See also Drug policy Environment, health and safety Environmental toxicology Ergonomics Health physics Indoor air quality International Chemical Safety Card National Day of Mourning (Canada) Process safety management Public health Risk management Safety data sheet Toxic tort Workers' compensation Category Occupational diseases Journals Organizations Commons Glossary v t e Human impact on the environment General Anthropocene Environmental issues list of issues Human impact on marine life List of global issues Impact assessment Planetary boundaries Causes Agriculture animal agriculture cannabis cultivation irrigation meat production cocoa production palm oil Energy industry biofuels biodiesel coal nuclear power oil shale petroleum reservoirs Genetic pollution Environmental crime Industrialisation Land use Manufacturing cleaning agents concrete plastics nanotechnology paint paper pesticides pharmaceuticals and personal care Marine life fishing fishing down the food web marine pollution overfishing Mining Overconsumption Overdrafting Overexploitation Overgrazing Particulates Pollution Quarrying Reservoirs Tourism Transport aviation rail roads shipping Urbanization urban sprawl War Effects Biodiversity threats biodiversity loss decline in amphibian populations decline in insect populations Climate change runaway climate change Coral reefs Deforestation Defaunation Desertification Ecocide Erosion Environmental degradation Freshwater cycle Habitat destruction Holocene extinction Nitrogen cycle Land degradation Land consumption Land surface effects on climate Loss of green belts Phosphorus cycle Ocean acidification Ozone depletion Resource depletion Water degradation Water scarcity Mitigation Alternative fuel vehicle propulsion Birth control Cleaner production Climate change mitigation Climate engineering Community resilience Cultured meat Decoupling Ecological engineering Environmental engineering Environmental mitigation Industrial ecology Mitigation banking Organic farming Recycling Reforestation urban Restoration ecology Sustainable consumption Waste minimization Commons Category by country assessment mitigation NewPP limit report Parsed by mw2321 Cached time: 20230311083745 Cache expiry: 1814400 Reduced expiry: false Complications: CPU time usage: 0.558 seconds Real time usage: 0.699 seconds Preprocessor visited node count: 3092/1000000 Post‐expand include size: 152553/2097152 bytes Template argument size: 1217/2097152 bytes Highest expansion depth: 16/100 Expensive parser function count: 11/500 Unstrip recursion depth: 1/20 Unstrip post‐expand size: 140469/5000000 bytes Lua time usage: 0.332/10.000 seconds Lua memory usage: 9111800/52428800 bytes Number of Wikibase entities loaded: 0/400 Transclusion expansion time report (%,ms,calls,template) 100.00% 547.655 1 -total 43.02% 235.625 1 Template:Reflist 20.22% 110.752 2 Template:Sidebar 19.77% 108.252 1 Template:ImpNano 16.43% 89.954 20 Template:Cite_journal 15.45% 84.640 7 Template:Cite_web 11.03% 60.409 3 Template:Navbox 10.43% 57.107 2 Template:Ambox 8.95% 49.025 1 Template:Unreferenced_section 8.58% 46.974 1 Template:Emerging_technologies Saved in parser cache with key enwiki:pcache:idhash:7200558-0!canonical and timestamp 20230311083745 and revision id 1144010647.
+Rendering was triggered because: api-parse esi <esi:include src="/esitest-fa8a495983347898/content" /> Retrieved from " https://en.wikipedia.org/w/index.php?title=Impact_of_nanotechnology&oldid=1144010647 " Categories : Ethics of science and technology Nanotechnology Occupational safety and health Nanotechnology and the environment Hidden categories: Webarchive template wayback links Articles needing additional references from June 2016 All articles needing additional references Articles needing additional medical references from June 2016 Articles requiring reliable medical sources All articles with unsourced statements Articles with unsourced statements from May 2020 This page was last edited on 11 March 2023, at 08:37 (UTC) .
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy .
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Mobile view Developers Statistics Cookie statement

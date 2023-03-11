@@ -1,0 +1,360 @@
+ Jump to content Toggle sidebar Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Tools What links here Related changes Upload file Special pages Permanent link Page information Cite this page Wikidata item Print/export Download as PDF Printable version Languages On this Wikipedia the language links are at the top of the page across from the article title.
+Go to top .
+CentralNotice Contents move to sidebar hide (Top) 1 Commonly used nanomaterials in energy Toggle Commonly used nanomaterials in energy subsection 1.1 Graphene-based materials 1.2 Silicon-based nano semiconductors 1.3 Nanocellulose‐based materials 2 Nanostructures in energy Toggle Nanostructures in energy subsection 2.1 One-dimensional nanomaterials 2.2 Two-dimensional nanomaterials 3 Applications Toggle Applications subsection 3.1 Lithium-sulfur based high-performance batteries 3.2 Nanomaterials in solar cells 3.3 Nanoparticle fuel additives 3.3.1 Environmental and health impacts of fuel additives 4 Economic benefits 5 See also 6 References Toggle the table of contents Toggle the table of contents Energy applications of nanotechnology 1 language العربية Edit links Article Talk English Read Edit View history More Read Edit View history From Wikipedia, the free encyclopedia This article needs additional citations for verification .
+Please help improve this article by adding citations to reliable sources .
+Unsourced material may be challenged and removed.
+Find sources: "Energy applications of nanotechnology" – news · newspapers · books · scholar · JSTOR ( November 2011 ) ( Learn how and when to remove this template message ) Part of a series of articles on the Impact of nanotechnology Health and safety Hazards Nanomedicine Nanotoxicology Carbon nanomaterials Environmental Green nanotechnology Energy applications Pollution Other topics Applications Industrial applications Societal impact Regulation Science portal Technology portal v t e Main article: List of nanotechnology applications As the world's energy demand continues to grow, the development of more efficient and sustainable technologies for generating and storing energy is becoming increasingly important.
+According to Dr. Wade Adams from Rice University, energy will be the most pressing problem facing humanity in the next 50 years and nanotechnology has potential to solve this issue. )
+which is usually prepared from graphite by oxidization to graphite oxide and consequent exfoliation.
+The properties of graphene depend greatly on the method of fabrication.
+For example, reduction of graphene oxide to graphene results in a graphene structure that is also one-atom thick but contains a high concentration of defects, such as nanoholes and Stone–Wales defects .
+Cellulose is the most abundant natural polymer on earth.
+Currently, nanocellulose ‐based mesoporous structures, flexible thin films, fibers, and networks are developed and used in photovoltaic (PV) devices, energy storage systems, mechanical energy harvesters, and catalysts components.
+Inclusion of nanocellulose in those energy‐related devices largely raises the portion of eco‐friendly materials and is very promising in addressing the relevant environmental concerns.
+Furthermore, cellulose manifests itself in the low cost and large‐scale promises.
+However, the gravimetric energy density of Li-ion batteries is limited and less than that of fossil fuels.
+The lithium sulfur (Li-S) battery, which has a much higher energy density than the Li-ion battery, has been attracting worldwide attention in recent years.
+A group of researches from the National Natural Science Foundation of China (Grant No.
+21371176 and 21201173) and the Ningbo Science and Technology Innovation Team (Grant No.
+2012B82001) have developed a nanostructure-based lithium-sulfur battery consisting of graphene/sulfur/carbon nano-composite multilayer structures.
+Nanomodification of sulfur can increase the electrical conductivity of the battery and improve electron transportation in the sulfur cathode.
+A graphene/sulfur/carbon nanocomposite with a multilayer structure (G/S/C), in which nanosized sulfur is layered on both sides of chemically reduced graphene sheets and covered with amorphous carbon layers, can be designed and successfully prepared.
+This structure achieves high conductivity , and surface protection of sulfur simultaneously, and thus gives rise to excellent charge/discharge performance.
+The G/S/C composite shows promising characteristics as a high performance cathode material for Li-S batteries.
+Today's best solar cells have layers of several different semiconductors stacked together to absorb light at different energies but still only manage to use approximately 40% of the Sun's energy.
+Commercially available solar cells have much lower efficiencies (15-20%).
+Nanostructuring has been used to improve the efficiencies of established photovoltaic (PV) technologies, for example, by improving current collection in amorphous silicon devices, Titanium dioxide (TiO 2 ) is one of the most widely investigated metal oxides for use in PV cells in the past few decades because of its low cost, environmental benignity, plentiful polymorphs , good stability, and excellent electronic and optical properties.
+However, their performances are greatly limited by the properties of the TiO 2 materials themselves.
+One limitation is the wide band gap, making TiO 2 only sensitive to ultraviolet (UV) light, which just occupies less than 5% of the solar spectrum.
+Recently, core–shell structured nanomaterials have attracted a great deal of attention as they represent the integration of individual components into a functional system, showing improved physical and chemical properties (e.g., stability, non-toxicity, dispersibility, multi-functionality), which are unavailable from the isolated components.
+However, improving the internal combustion engine in this respect has proven to be extremely difficult without sacrificing performance.
+Improving the efficiency of fuel cells through the use of nanotechnology appears to be more plausible by using molecularly tailored catalysts , polymer membranes, and improved fuel storage.
+In order for a fuel cell to operate, particularly of the hydrogen variant, a noble-metal catalyst (usually platinum , which is very expensive) is needed to separate the electrons from the protons of the hydrogen atoms.
+^ TEDxHouston 2011 - Wade Adams - Nanotechnology and Energy , archived from the original on 2021-12-15 , retrieved 2020-04-28 ^ a b c Pumera, Martin (2011-03-01).
+"Graphene-based nanomaterials for energy storage" .
+Energy & Environmental Science .
+4 (3): 668–674.
+doi : 10.1039/C0EE00295J .
+ISSN 1754-5706 .
+^ Zhu, Yanwu; Murali, Shanthi; Cai, Weiwei; Li, Xuesong; Suk, Ji Won; Potts, Jeffrey R.; Ruoff, Rodney S. (2010).
+"Graphene and Graphene Oxide: Synthesis, Properties, and Applications".
+Advanced Materials .
+22 (35): 3906–3924.
+doi : 10.1002/adma.201001068 .
+ISSN 1521-4095 .
+PMID 20706983 .
+S2CID 197062335 .
+^ Tjong, Sie Chin (2014-01-01).
+"Synthesis and Structural–Mechanical Property Characteristics of Graphene–Polymer Nanocomposites" .
+In Tjong, Sie-Chin (ed.).
+10 - Synthesis and Structural–Mechanical Property Characteristics of Graphene–Polymer Nanocomposites .
+Nanocrystalline Materials (Second Edition) .
+Elsevier.
+pp. 335–375.
+doi : 10.1016/B978-0-12-407796-6.00010-5 .
+ISBN 978-0-12-407796-6 .
+Retrieved 2020-05-04 .
+^ Gómez-Navarro, Cristina; Meyer, Jannik C.; Sundaram, Ravi S.; Chuvilin, Andrey; Kurasch, Simon; Burghard, Marko; Kern, Klaus; Kaiser, Ute (2010-04-14).
+"Atomic Structure of Reduced Graphene Oxide".
+Nano Letters .
+10 (4): 1144–1148.
+Bibcode : 2010NanoL..10.1144G .
+doi : 10.1021/nl9031617 .
+ISSN 1530-6984 .
+PMID 20199057 .
+^ Jayaprakash, N.; Shen, J.; Moganty, Surya S.; Corona, A.; Archer, Lynden A.
+(2011).
+"Porous Hollow Carbon@Sulfur Composites for High-Power Lithium–Sulfur Batteries".
+Angewandte Chemie International Edition .
+50 (26): 5904–5908.
+doi : 10.1002/anie.201100637 .
+ISSN 1521-3773 .
+PMID 21591036 .
+^ Schuster, Jörg; He, Guang; Mandlmeier, Benjamin; Yim, Taeeun; Lee, Kyu Tae; Bein, Thomas; Nazar, Linda F. (2012).
+"Spherical Ordered Mesoporous Carbon Nanoparticles with High Porosity for Lithium–Sulfur Batteries".
+Angewandte Chemie International Edition .
+51 (15): 3591–3595.
+doi : 10.1002/anie.201107817 .
+ISSN 1521-3773 .
+PMID 22383067 .
+^ Zheng, Guangyuan; Yang, Yuan; Cha, Judy J.; Hong, Seung Sae; Cui, Yi (2011-10-12).
+"Hollow Carbon Nanofiber-Encapsulated Sulfur Cathodes for High Specific Capacity Rechargeable Lithium Batteries".
+Nano Letters .
+11 (10): 4462–4467.
+Bibcode : 2011NanoL..11.4462Z .
+doi : 10.1021/nl2027684 .
+ISSN 1530-6984 .
+PMID 21916442 .
+^ Ji, Xiulei; Lee, Kyu Tae; Nazar, Linda F. (June 2009).
+"A highly ordered nanostructured carbon–sulphur cathode for lithium–sulphur batteries" .
+Nature Materials .
+8 (6): 500–506.
+Bibcode : 2009NatMa...8..500J .
+doi : 10.1038/nmat2460 .
+ISSN 1476-4660 .
+PMID 19448613 .
+^ How Nanotechnology is boosting Solar energy , archived from the original on 2021-12-15 , retrieved 2020-04-29 ^ Wang, Xudong; Yao, Chunhua; Wang, Fei; Li, Zhaodong (2017).
+"Cellulose-Based Nanomaterials for Energy Applications" .
+Small .
+13 (42): 1702240. doi : 10.1002/smll.201702240 .
+ISSN 1613-6829 .
+PMC 5837049 .
+PMID 28902985 .
+^ Wei, Qiulong; Xiong, Fangyu; Tan, Shuangshuang; Huang, Lei; Lan, Esther H.; Dunn, Bruce; Mai, Liqiang (2017).
+"Porous One-Dimensional Nanomaterials: Design, Fabrication and Applications in Electrochemical Energy Storage" .
+Advanced Materials .
+29 (20): 1602300. doi : 10.1002/adma.201602300 .
+ISSN 1521-4095 .
+PMID 28106303 .
+^ Chen, Cheng; Fan, Yuqi; Gu, Jianhang; Wu, Liming; Passerini, Stefano; Mai, Liqiang (2018-03-21).
+"One-dimensional nanomaterials for energy storage".
+Journal of Physics D: Applied Physics .
+51 (11): 113002.
+Bibcode : 2018JPhD...51k3002C .
+doi : 10.1088/1361-6463/aaa98d .
+ISSN 0022-3727 .
+S2CID 55685412 .
+^ a b Zhu, Yue; Peng, Lele; Fang, Zhiwei; Yan, Chunshuang; Zhang, Xiao; Yu, Guihua (2018).
+"Structural Engineering of 2D Nanomaterials for Energy Storage and Catalysis".
+Advanced Materials .
+30 (15): 1706347. doi : 10.1002/adma.201706347 .
+PMID 29430788 .
+S2CID 3325880 .
+^ Goodenough, John B.; Kim, Youngsik (2010-02-09).
+"Challenges for Rechargeable Li Batteries†".
+Chemistry of Materials .
+22 (3): 587–603.
+doi : 10.1021/cm901452z .
+ISSN 0897-4756 .
+^ Bruce, Peter G.; Scrosati, Bruno; Tarascon, Jean-Marie (2008-04-07).
+"Nanomaterials for Rechargeable Lithium Batteries".
+Angewandte Chemie International Edition .
+47 (16): 2930–2946.
+doi : 10.1002/anie.200702505 .
+ISSN 1433-7851 .
+PMID 18338357 .
+^ Bruce, Peter G.; Freunberger, Stefan A.; Hardwick, Laurence J.; Tarascon, Jean-Marie (2011-12-15).
+"Li–O2 and Li–S batteries with high energy storage".
+Nature Materials .
+11 (1): 19–29.
+doi : 10.1038/nmat3191 .
+ISSN 1476-1122 .
+PMID 22169914 .
+^ Barghamadi, Marzieh; Kapoor, Ajay; Wen, Cuie (2013).
+"A Review on Li-S Batteries as a High Efficiency Rechargeable Lithium Battery".
+Journal of the Electrochemical Society .
+160 (8): A1256–A1263.
+doi : 10.1149/2.096308jes .
+hdl : 1959.3/351310 .
+ISSN 0013-4651 .
+^ Jin, Kangke; Zhou, Xufeng; Liu, Zhaoping (2015-09-01).
+"Graphene/Sulfur/Carbon Nanocomposite for High Performance Lithium-Sulfur Batteries" .
+Nanomaterials .
+5 (3): 1481–1492.
+doi : 10.3390/nano5031481 .
+ISSN 2079-4991 .
+PMC 5304645 .
+PMID 28347077 .
+^ Li, Wei; Elzatahry, Ahmed; Aldhayan, Dhaifallah; Zhao, Dongyuan (2018-11-12).
+"Core–shell structured titanium dioxide nanomaterials for solar energy utilization" .
+Chemical Society Reviews .
+47 (22): 8203–8237.
+doi : 10.1039/C8CS00443A .
+ISSN 1460-4744 .
+PMID 30137079 .
+^ Johlin, Eric; Al-Obeidi, Ahmed; Nogay, Gizem; Stuckelberger, Michael; Buonassisi, Tonio; Grossman, Jeffrey C. (2016).
+"Nanohole Structuring for Improved Performance of Hydrogenated Amorphous Silicon Photovoltaics" (PDF) .
+ACS Applied Materials & Interfaces .
+8 (24): 15169–15176.
+doi : 10.1021/acsami.6b00033 .
+hdl : 1721.1/111823 .
+ISSN 1944-8244 .
+PMID 27227369 .
+S2CID 42437702 .
+^ Sheehan, Stafford W.; Noh, Heeso; Brudvig, Gary W.; Cao, Hui; Schmuttenmaer, Charles A.
+(2013).
+"Plasmonic Enhancement of Dye-Sensitized Solar Cells Using Core–Shell–Shell Nanostructures".
+The Journal of Physical Chemistry C .
+117 (2): 927–934.
+doi : 10.1021/jp311881k .
+ISSN 1932-7447 .
+^ Branham, Matthew S.; Hsu, Wei-Chun; Yerci, Selcuk; Loomis, James; Boriskina, Svetlana V.; Hoard, Brittany R.; Han, Sang Eon; Chen, Gang (2015).
+"15.7% Efficient 10-μm-Thick Crystalline Silicon Solar Cells Using Periodic Nanostructures" (PDF) .
+Advanced Materials .
+27 (13): 2182–2188.
+doi : 10.1002/adma.201405511 .
+hdl : 1721.1/96917 .
+ISSN 0935-9648 .
+PMID 25692399 .
+S2CID 28661896 .
+^ Asim, Nilofar; Mohammad, Masita; Badiei, Marzieh (2018-01-01), Bhanvase, Bharat A.; Pawade, Vijay B.; Dhoble, Sanjay J.; Sonawane, Shirish H.
+(eds.
+), "Chapter 8 - Novel Nanomaterials for Solar Cell Devices" , Nanomaterials for Green Energy , Micro and Nano Technologies, Elsevier, pp.
+227–277, ISBN 978-0-12-813731-4 , retrieved 2020-04-29 ^ Mann, Sander A.; Grote, Richard R.; Osgood, Richard M. ; Alù, Andrea; Garnett, Erik C. (2016).
+"Opportunities and Limitations for Nanophotonic Structures To Exceed the Shockley–Queisser Limit".
+ACS Nano .
+10 (9): 8620–8631.
+doi : 10.1021/acsnano.6b03950 .
+ISSN 1936-0851 .
+PMID 27580421 .
+^ Hoffmann, Michael R.; Martin, Scot T.; Choi, Wonyong.
+; Bahnemann, Detlef W. (1995).
+"Environmental Applications of Semiconductor Photocatalysis".
+Chemical Reviews .
+95 (1): 69–96.
+doi : 10.1021/cr00033a004 .
+ISSN 0009-2665 .
+^ Chen, Xiaobo; Mao, Samuel S. (2007).
+"Titanium Dioxide Nanomaterials: Synthesis, Properties, Modifications, and Applications".
+Chemical Reviews .
+107 (7): 2891–2959.
+doi : 10.1021/cr0500535 .
+ISSN 0009-2665 .
+PMID 17590053 .
+^ Liu, Lei; Chen, Xiaobo (2014-06-23).
+"Titanium Dioxide Nanomaterials: Self-Structural Modifications".
+Chemical Reviews .
+114 (19): 9890–9918.
+doi : 10.1021/cr400624r .
+ISSN 0009-2665 .
+PMID 24956359 .
+^ De Angelis, Filippo; Di Valentin, Cristiana; Fantacci, Simona; Vittadini, Andrea; Selloni, Annabella (2014-06-13).
+"Theoretical Studies on Anatase and Less Common TiO2Phases: Bulk, Surfaces, and Nanomaterials".
+Chemical Reviews .
+114 (19): 9708–9753.
+doi : 10.1021/cr500055q .
+ISSN 0009-2665 .
+PMID 24926899 .
+^ Dahl, Michael; Liu, Yiding; Yin, Yadong (2014-07-11).
+"Composite Titanium Dioxide Nanomaterials" .
+Chemical Reviews .
+114 (19): 9853–9889.
+doi : 10.1021/cr400634p .
+ISSN 0009-2665 .
+PMID 25011918 .
+^ a b Li, Wei; Elzatahry, Ahmed; Aldhayan, Dhaifallah; Zhao, Dongyuan (2018-11-12).
+"Core–shell structured titanium dioxide nanomaterials for solar energy utilization" .
+Chemical Society Reviews .
+47 (22): 8203–8237.
+doi : 10.1039/C8CS00443A .
+ISSN 1460-4744 .
+PMID 30137079 .
+^ Joo, Sang Hoon; Park, Jeong Young; Tsung, Chia-Kuang; Yamada, Yusuke; Yang, Peidong; Somorjai, Gabor A.
+(2008-11-23).
+"Thermally stable Pt/mesoporous silica core–shell nanocatalysts for high-temperature reactions".
+Nature Materials .
+8 (2): 126–131.
+doi : 10.1038/nmat2329 .
+ISSN 1476-1122 .
+PMID 19029893 .
+S2CID 3091948 .
+^ Ghosh Chaudhuri, Rajib; Paria, Santanu (2011-12-28).
+"Core/Shell Nanoparticles: Classes, Properties, Synthesis Mechanisms, Characterization, and Applications".
+Chemical Reviews .
+112 (4): 2373–2433.
+doi : 10.1021/cr100449n .
+ISSN 0009-2665 .
+PMID 22204603 .
+^ Wei, Suying; Wang, Qiang; Zhu, Jiahua; Sun, Luyi; Lin, Hongfei; Guo, Zhanhu (2011).
+"Multifunctional composite core–shell nanoparticles".
+Nanoscale .
+3 (11): 4474–502.
+Bibcode : 2011Nanos...3.4474W .
+doi : 10.1039/c1nr11000d .
+ISSN 2040-3364 .
+PMID 21984390 .
+^ Li, Wei; Zhao, Dongyuan (2012-10-15).
+"Extension of the Stöber Method to Construct Mesoporous SiO2and TiO2Shells for Uniform Multifunctional Core-Shell Structures".
+Advanced Materials .
+25 (1): 142–149.
+doi : 10.1002/adma.201203547 .
+ISSN 0935-9648 .
+PMID 23397611 .
+S2CID 21802651 .
+^ Guerrero-Martínez, Andrés; Pérez-Juste, Jorge; Liz-Marzán, Luis M. (2010-03-19).
+"Recent Progress on Silica Coating of Nanoparticles and Related Nanomaterials".
+Advanced Materials .
+22 (11): 1182–1195.
+doi : 10.1002/adma.200901263 .
+ISSN 0935-9648 .
+PMID 20437506 .
+S2CID 29049083 .
+^ Gawande, Manoj B.; Goswami, Anandarup; Asefa, Tewodros; Guo, Huizhang; Biradar, Ankush V.; Peng, Dong-Liang; Zboril, Radek; Varma, Rajender S. (2015).
+"Core–shell nanoparticles: synthesis and applications in catalysis and electrocatalysis".
+Chemical Society Reviews .
+44 (21): 7540–7590.
+doi : 10.1039/c5cs00343a .
+ISSN 0306-0012 .
+PMID 26288197 .
+^ Zhang, Fan; Che, Renchao; Li, Xiaomin; Yao, Chi; Yang, Jianping; Shen, Dengke; Hu, Pan; Li, Wei; Zhao, Dongyuan (2012-05-03).
+"Direct Imaging the Upconversion Nanocrystal Core/Shell Structure at the Subnanometer Level: Shell Thickness Dependence in Upconverting Optical Properties".
+Nano Letters .
+12 (6): 2852–2858.
+Bibcode : 2012NanoL..12.2852Z .
+doi : 10.1021/nl300421n .
+ISSN 1530-6984 .
+PMID 22545710 .
+^ Qian, Xufang; Lv, Yingying; Li, Wei; Xia, Yongyao; Zhao, Dongyuan (2011).
+"Multiwall carbon nanotube@mesoporous carbon with core-shell configuration: a well-designed composite-structure toward electrochemical capacitor application".
+Journal of Materials Chemistry .
+21 (34): 13025. doi : 10.1039/c1jm12082d .
+ISSN 0959-9428 .
+^ Zhang, Qiao; Lee, Ilkeun; Joo, Ji Bong; Zaera, Francisco; Yin, Yadong (2012-12-26).
+"Core–Shell Nanostructured Catalysts".
+Accounts of Chemical Research .
+46 (8): 1816–1824.
+doi : 10.1021/ar300230s .
+ISSN 0001-4842 .
+PMID 23268644 .
+^ Liu, Siqi; Zhang, Nan; Xu, Yi-Jun (2013-12-04).
+"Core-Shell Structured Nanocomposites for Photocatalytic Selective Organic Transformations".
+Particle & Particle Systems Characterization .
+31 (5): 540–556.
+doi : 10.1002/ppsc.201300235 .
+ISSN 0934-0866 .
+S2CID 93787426 .
+^ Rai, Prabhakar; Majhi, Sanjit Manohar; Yu, Yeon-Tae; Lee, Jong-Heun (2015).
+"Noble metal@metal oxide semiconductor core@shell nano-architectures as a new platform for gas sensor applications".
+RSC Advances .
+5 (93): 76229–76248.
+doi : 10.1039/c5ra14322e .
+ISSN 2046-2069 .
+^ Li, Guodong; Tang, Zhiyong (2014).
+"Noble metal nanoparticle@metal oxide core/yolk–shell nanostructures as catalysts: recent progress and perspective".
+Nanoscale .
+6 (8): 3995–4011.
+Bibcode : 2014Nanos...6.3995L .
+doi : 10.1039/c3nr06787d .
+ISSN 2040-3364 .
+PMID 24622876 .
+^ a b c "Nanoparticles as Fuel Additives" .
+AZoNano.com .
+2012-09-03 .
+Retrieved 2020-04-29 .
+^ Ghamari, Mohsen; Ratner, Albert (2017-01-15).
+"Combustion characteristics of colloidal droplets of jet fuel and carbon based nanoparticles" .
+Fuel .
+188 : 182–189.
+doi : 10.1016/j.fuel.2016.10.040 .
+ISSN 0016-2361 .
+^ Debbarma, Sumita; Misra, Rahul Dev (2018-08-01).
+"Effects of Iron Nanoparticle Fuel Additive on the Performance and Exhaust Emissions of a Compression Ignition Engine Fueled With Diesel and Biodiesel" .
+Journal of Thermal Science and Engineering Applications .
+10 (4).
+doi : 10.1115/1.4038708 .
+ISSN 1948-5085 .
+^ "Internal Combustion Engine Basics" .
+Energy.gov .
+Retrieved 2020-04-29 .
+^ Wang, Shuangyin (2008-12-09).
+"Controlled synthesis of dendritic Au@Pt core–shell nanomaterials for use as an effective fuel cell electrocatalyst".
+Nanotechnology .
+20 (2): 025605. doi : 10.1088/0957-4484/20/2/025605 .
+PMID 19417274 .
+S2CID 28809374 .
+NewPP limit report Parsed by mw2412 Cached time: 20230310111406 Cache expiry: 1814400 Reduced expiry: false Complications: CPU time usage: 0.685 seconds Real time usage: 0.773 seconds Preprocessor visited node count: 3351/1000000 Post‐expand include size: 142109/2097152 bytes Template argument size: 702/2097152 bytes Highest expansion depth: 12/100 Expensive parser function count: 5/500 Unstrip recursion depth: 1/20 Unstrip post‐expand size: 172104/5000000 bytes Lua time usage: 0.477/10.000 seconds Lua memory usage: 8879456/52428800 bytes Number of Wikibase entities loaded: 0/400 Transclusion expansion time report (%,ms,calls,template) 100.00% 686.763 1 -total 61.39% 421.602 1 Template:Reflist 40.85% 280.528 42 Template:Cite_journal 15.33% 105.284 1 Template:Nanotechnology_implications 14.96% 102.750 1 Template:Sidebar 12.37% 84.967 1 Template:More_citations_needed 10.67% 73.294 3 Template:Citation 10.38% 71.284 1 Template:Ambox 4.72% 32.447 1 Template:Cn 3.55% 24.380 1 Template:Fix Saved in parser cache with key enwiki:pcache:idhash:10209776-0!canonical and timestamp 20230310111405 and revision id 1139053859.
+Rendering was triggered because: page-view esi <esi:include src="/esitest-fa8a495983347898/content" /> Retrieved from " https://en.wikipedia.org/w/index.php?title=Energy_applications_of_nanotechnology&oldid=1139053859 " Categories : Nanotechnology Energy technology Hidden categories: Articles needing additional references from November 2011 All articles needing additional references All articles with unsourced statements Articles with unsourced statements from May 2021 This page was last edited on 13 February 2023, at 03:22 (UTC) .
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0 ; additional terms may apply.
+By using this site, you agree to the Terms of Use and Privacy Policy .
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization.
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Mobile view Developers Statistics Cookie statement

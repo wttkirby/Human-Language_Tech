@@ -1,0 +1,249 @@
+Education Sign In Menu Donate Resource ARTICLE Resource ARTICLE Nanotechnology Nanotechnology Nanotechnology is the study and manipulation of individual atoms and molecules.
+Grades 9 - 12+ Subjects Biology, Health, Chemistry, Engineering, Physics ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ Loading ... Encyclopedic Entry Vocabulary Nanotechnology involves the understanding and control of matter at the nanometer -scale.
+The so-called nanoscale deals with dimensions between approximately 1 and 100 nanometers .
+A nanometer is an extremely small unit of length—a billionth (10-9) of a meter.
+Just how small is a nanometer (nm)?
+A single human hair is about 80,000 to 100,000 nm wide.
+On the nanometer-scale, materials may exhibit unusual properties.
+When you change the size of a particle , it can change color, for example.
+That’s because in nanometer-scale particles, the arrangement of atoms reflects light differently.
+Gold can appear dark red or purple, while silver can appear yellowish or amber -colored.
+Nanotechnology can increase the surface area of a material.
+This allows more atoms to interact with other materials.
+An increased surface area is one of the chief reasons nanometer-scale materials can be stronger, more durable , and more conductive than their larger-scale (called bulk) counterparts.
+Nanotechnology is not microscopy.
+"Nanotechnology is not simply working at ever smaller dimensions," the National Nanotechnology Initiative says.
+"Rather, working at the nanoscale enables scientists to utilize the unique physical, chemical, mechanical, and optical properties of materials that naturally occur at that scale."
+Scientists study these properties for a range of uses, from altering consumer products such as clothes to revolutionizing medicine and tackling environmental issues.
+Classifying Nanomaterials There are different types of nanomaterials, and different ways to classify them.
+Natural nanomaterials, as the name suggests, are those that occur naturally in the world.
+These include particles that make up volcanic ash , smoke, and even some molecules in our bodies, such as the hemoglobin in our blood.
+The brilliant colors of a peacock’s feathers are the result of spacing between nanometer-scale structures on their surface.
+Artificial nanomaterials are those that occur from objects or processes created by people.
+Examples include exhaust from fossil fuel burning engines and some forms of pollution .
+But while some of these just happen to be nanomaterials—vehicle exhaust, for instance, was not developed as one—scientists and engineers are working to create them for use in industries from manufacturing to medicine.
+These are called intentionally produced nanomaterials.
+Fullerenes and Nanoparticles One way to classify nanomaterials is between fullerenes and nanoparticles.
+This classification includes both naturally occurring and man-made nanomaterials.
+Fullerenes Fullerenes are allotropes of carbon.
+Allotropes are different molecular forms of the same element.
+The most familiar carbon allotropes are probably diamond and graphite , a type of coal .
+Fullerenes are atom-thick sheets of another carbon allotrope, graphene , rolled into spheres or tubes.
+The most familiar type of spherical fullerene is probably the buckminsterfullerene, nicknamed the buckyball .
+Buckyballs are nanometer-sized carbon molecules shaped like soccer balls—tightly bonded hexagons and pentagons .
+Buckyballs are very stable—able to withstand extreme temperatures and pressure.
+For this reason, buckyballs are able to exist in extremely harsh environments, such as outer space.
+In fact, buckyballs are the largest molecules ever discovered in space, detected around planetary nebula in 2010.
+Buckyballs’ cage-like structure seems to protect any atom or molecule trapped within it.
+Many researchers are experimenting with "impregnating" buckyballs with elements, such as helium.
+These impregnated buckyballs may make excellent chemical "tracers," meaning scientists could follow them as they wind through a system.
+For example, scientists could track water pollution kilometers away from where it entered a river, lake, or ocean.
+Tubular fullerenes are called nanotubes .
+Thanks to the way carbon atoms bond to each other, carbon nanotubes are remarkably strong and flexible.
+Carbon nanotubes are harder than diamond and more flexible than rubber.
+Carbon nanotubes hold great potential for science and technology.
+NASA, for example, is experimenting with carbon nanotubes to produce "blacker than black" coloration on satellites .
+This would reduce reflection, so data collected by the satellite are not "polluted" by light.
+Nanoparticles Nanoparticles can include carbon, like fullerenes, as well as nanometer-scale versions of many other elements, such as gold, silicon, and titanium.
+Quantum dots , a type of nanoparticle, are semiconductors made of different elements, including cadmium and sulfur.
+Quantum dots have unusual fluorescent capabilities.
+Scientists and engineers have experimented with using quantum dots in everything from photovoltaic cells (used for solar power) to fabric dye.
+The properties of nanoparticles have been important in the study of nanomedicine.
+One promising development in nanomedicine is the use of gold nanoparticles to fight lymphoma , a type of cancer that attacks cholesterol cells.
+Researchers have developed a nanoparticle that looks like a cholesterol cell, but with gold at its core.
+When this nanoparticle attaches to a lymphoma cell, it prevents the lymphoma from "feeding" off actual cholesterol cells, starving it to death.
+Intentionally Produced Nanomaterials There are four main types of intentionally produced nanomaterials: carbon-based, metal-based, dendrimers , and nanocomposites .
+Carbon-based nanomaterials Carbon-based nanomaterials are intentionally produced fullerenes.
+These include carbon nanotubes and buckyballs.
+Carbon nanotubes are often produced using a process called carbon assisted vapor deposition.
+(This is the process NASA uses to create its "blacker than black" satellite color.)
+In this process, scientists establish a substrate , or base material, where the nanotubes grow.
+Silicon is a common substrate.
+Then, a catalyst helps the chemical reaction that grows the nanotubes.
+Iron is a common catalyst.
+Finally, the process requires a heated gas, blown over the substrate and catalyst.
+The gas contains the carbon that grows into nanotubes.
+Metal-based nanomaterials Metal-based nanomaterials include gold nanoparticles and quantum dots.
+Quantum dots are synthesized using different methods.
+In one method, small crystals of two different elements are formed under high temperatures.
+By controlling the temperature and other conditions, the size of the nanometer-scale crystals can be carefully controlled.
+The size is what determines the fluorescent color.
+These nanocrystals are quantum dots—tiny semiconductors—suspended in a solution.
+Dendrimers Dendrimers are complex nanoparticles built from linked, branched units.
+Each dendrimer has three sections: a core, an inner shell, and an outer shell.
+In addition, each dendrimer has branched ends.
+Each part of a dendrimer—its core, inner shell, outer shell, and branched ends—can be designed to perform a specific chemical function.
+Dendrimers can be fabricated either from the core outward (divergent method) or from the outer shell inward (convergent method).
+Like buckyballs and some other nanomaterials, dendrimers have strong, cage-like cavities in their structure.
+Scientists and researchers are experimenting with dendrimers as multi-functional drug-delivery methods.
+A single dendrimer, for example, may deliver a drug to a specific cell, and also trace that drug's impact on the surrounding tissue .
+Nanocomposites Nanocomposites combine nanomaterials with other nanomaterials, or with larger, bulk materials.
+There are three main types of nanocomposites: nano ceramic matrix composites ( NCMCs ), metal matrix composites ( MMCs ), and polymer matrix composites (PMCs).
+NCMCs, sometimes called nanoclays , are often used to coat packing materials.
+They strengthen the material’s heat resistance and flame- retardant properties.
+MMCs are stronger and lighter than bulk metals.
+MMCs may be used to reduce heat in computer " server farms" or build vehicles light enough to airlift.
+Industrial plastics are often composed of PMCs.
+One promising area of nanomedical research is creating PMC "tissue scaffolding ."
+Tissue scaffolds are nanostructures that provide a frame around which tissue, such as an organ or skin, can be grown.
+This could revolutionize the treatment of burn injuries and organ loss.
+Nanomanufacturing Nanotech equipment Scientists and engineers working at the nanometer-scale need special microscopes.
+The atomic force microscope ( AFM ) and the scanning tunneling microscope ( STM ) are essential in the study of nanotechnology.
+These powerful tools allow scientists and engineers to see and manipulate individual atoms.
+AFMs use a very small probe —a cantilever with a tiny tip—to scan a nanostructure.
+The tip is only nanometers in diameter.
+As the tip is brought close to the sample being examined, the cantilever moves because of the atomic forces between the tip and the surface of the sample.
+With STMs, an electronic signal is passed between the microscope’s tip—formed by one single atom—and the surface of the sample being scanned.
+The tip moves up and down to keep both the signal and the distance from the sample constant.
+AFMs and STMs allow researchers to create an image of an individual atom or molecule that looks just like a topographic map .
+Using an AFM’s or STM’s sensitive tip, researchers can also pick up and move atoms and molecules like tiny building blocks.
+Nanomanufacturing There are two ways to build materials on the nanometer-scale: top-down or bottom-up.
+Top-down nanomanufacturing involves carving bulk materials to create features with nanometer-scale dimensions.
+For decades, the process used to produce computer chips has been top-down.
+Producers work to increase the speed and efficiency of each "generation" of microchip .
+The manufacture of graphene-based (as opposed to silicon-based) microchips may revolutionize the industry.
+Bottom-up nanomanufacturing builds products atom-by-atom or molecule-by-molecule.
+Experimenting with quantum dots and other nanomaterials, tech companies are starting to develop transistors and other electronic devices using individual molecules.
+These atom-thick transistors may mark the future development of the microchip industry.
+History of Nanotechnology American physicist Richard Feynman is considered the father of nanotechnology.
+He introduced the ideas and concepts behind nanotech in a 1959 talk titled "There’s Plenty of Room at the Bottom."
+Feynman did not use the term "nanotechnology," but described a process in which scientists would be able to manipulate and control individual atoms and molecules.
+Modern nanotechnology truly began in 1981, when the scanning tunneling microscope allowed scientists and engineers to see and manipulate individual atoms.
+IBM scientists Gerd Binnig and Heinrich Rohrer won the 1986 Nobel Prize in Physics for inventing the scanning tunneling microscope.
+The Binnig and Rohrer Nanotechnology Center in Zurich, Switzerland, continues to build on the work of these pioneering scientists by conducting research and developing new applications for nanotechnology.
+The iconic example of the development of nanotechnology was an effort led by Don Eigler at IBM to spell out "IBM" using 35 individual atoms of xenon.
+By the end of the 20th century, many companies and governments were investing in nanotechnology.
+Major nanotech discoveries, such as carbon nanotubes, were made throughout the 1990s.
+By the early 2000s, nanomaterials were being used in consumer products from sports equipment to digital cameras.
+Modern nanotechnology may be quite new, but nanometer-scale materials have been used for centuries.
+As early as the 4th century, Roman artists had discovered that adding gold and silver to glass created a startling effect: The glass appeared slate green when lit from the outside, but glowed red when lit from within.
+Nanoparticles of gold and silver were suspended in the glass solution, coloring it.
+The most famous surviving example of this technique is a ceremonial vessel , the Lycurgus Cup.
+Artists from China, western Asia, and Europe were also using nanoparticles of silver and copper, this time in pottery glazes.
+This gave a distinctive " luster " to ceramics such as tiles and bowls.
+In 2006, modern microscopy revealed the technology of " Damascus steel ," a metal used in South Asia and the Middle East until the technique was lost in the 18th century—carbon nanotubes.
+Swords made with Damascus steel are legendary for their strength, durability, and ability to maintain a very sharp edge.
+One of the most well-known examples of pre-modern use of nanomaterials is in European medieval stained-glass windows.
+Like the Romans before them, medieval artisans knew that by putting varying, small amounts of gold and silver in glass, they could produce bright reds and yellows.
+Nanotech and the Environment Many governments, scientists, and engineers are researching the potential of nanotechnology to bring affordable, high-tech, and energy-efficient products to millions of people around the world.
+Nanotechnology has improved the design of products such as light bulbs, paints, computer screens, and fuels.
+Energy Nanotechnology is helping inform the development of alternative energy sources, such as solar and wind power.
+Solar cells, for instance, turn sunlight into electric currents .
+Nanotechnology could change the way solar cells are used, making them more efficient and affordable.
+Solar cells, also called photovoltaic cells, are usually assembled as a series of large, flat panels.
+These solar panels are big and bulky.
+They are also expensive and often difficult to install.
+Using nanotechnology, scientists and engineers have been able to experiment with print-like development processes, which reduces manufacturing costs.
+Some experimental solar panels have been made in flexible rolls rather than rigid panels.
+In the future, panels might even be "painted" with photovoltaic technology.
+The bulky, heavy blades on wind turbines may also benefit from nanotech.
+An epoxy containing carbon nanotubes is being used to make turbine blades that are longer, stronger, and lighter.
+Other nanotech innovations may include a coating to reduce ice build-up.
+Nanotech is already helping increase the energy-efficiency of products.
+One of the United Kingdom's biggest bus operators, for instance, has been using a nano-fuel additive for close to a decade.
+Engineers mix a tiny amount of the additive with diesel fuel, and the cerium-oxide nanoparticles help the fuel burn more cleanly and efficiently.
+Use of the additive has achieved a 5% annual reduction in fuel consumption and emissions .
+Water Access to clean water has become a problem in many parts of the world.
+Nanomaterials may be a tiny solution to this large problem.
+Nanomaterials can strip water of toxic metals and organic molecules.
+For example, researchers have discovered that nanometer-scale specks of rust are magnetic, which can help remove dangerous chemicals from water.
+Other engineers are developing nanostructured filters that can remove virus cells from water.
+Researchers are also experimenting with using nanotechnology to safely, affordably, and efficiently turn saltwater into freshwater, a process called desalination .
+In one experiment, nano-sized electrodes are being used to reduce the cost and energy requirements of removing salts from water.
+Oil Spill Clean-Up Scientists and engineers are experimenting with nanotechnology to help isolate and remove oil spilled from offshore oil platforms and container ships.
+One method uses nanoparticles' unique magnetic properties to help isolate oil.
+Oil itself is not magnetic, but when mixed with water-resistant iron nanoparticles, it can be magnetically separated from seawater.
+The nanoparticles can later be removed so the oil can be used.
+Another method involves the use of a nanofabric "towel" woven from nanowires.
+These towels can absorb 20 times their weight in oil.
+Nanotech and People Hundreds of consumer products are already benefiting from nanotechnology.
+You may be wearing, eating, or breathing nanoparticles right now!
+Clothing Scientists and engineers are using nanotechnology to enhance clothing.
+By coating fabrics with a thin layer of zinc oxide nanoparticles, for instance, manufacturers can create clothes that give better protection from ultraviolet radiation , like that from the sun.
+Some clothes have nanoparticles in the form of little hairs or whiskers that help repel water and other materials, making fabric more stain-resistant.
+Some researchers are experimenting with nanotechnology for "personal climate control."
+Nanofiber jackets allow the wearer to control the jacket’s warmth using a small set of batteries.
+Cosmetics Many cosmetic products contain nanoparticles.
+Nanometer-scale materials in these products provide greater clarity , coverage, cleansing, or absorption.
+For instance, the nanoparticles used in sunscreen (titanium dioxide and zinc oxide) provide reliable, extensive protection from harmful UV radiation.
+These nanomaterials offer better light reflection for a longer time period.
+Nanotechnology may also provide better "delivery systems" for cosmetic ingredients.
+Nanomaterials may be able to penetrate a skin’s cell membranes to augment the cell’s features, such as elasticity or moisture.
+Athletics Nanotech is revolutionizing the sports world.
+Nanometer-scale additives can make sporting equipment lightweight, stiff, and durable.
+Carbon nanotubes, for example, are used to make bicycle frames and tennis rackets lighter, thinner, and more resilient .
+Nanotubes give golf clubs and hockey sticks a more powerful and accurate drive.
+Carbon nanotubes embedded in epoxy coatings make kayaks faster and more stable in the water.
+A similar epoxy keeps tennis balls bouncy.
+Food The food industry is using nanomaterials in both the packaging and agricultural sectors.
+Clay nanocomposites provide an impenetrable barrier to gases such as oxygen or carbon dioxide in lightweight bottles, cartons, and packaging films.
+Silver nanoparticles, embedded in the plastic of storage containers, kill bacteria .
+Engineers and chemists use nanotechnology to adapt the texture and flavor of foods.
+Nanomaterials’ greater surface area may improve the "spreadability" of foods such as mayonnaise, for instance.
+Nanotech engineers have isolated and studied the way our taste buds perceive flavor.
+By targeting individual cells on a taste bud, nanomaterials can enhance the sweetness or saltiness of a particular food.
+A chemical nicknamed "bitter blocker," for instance, can trick the tongue into not tasting the naturally bitter taste of many foods.
+Electronics Nanotechnology has revolutionized the realm of electronics.
+It provides faster and more portable systems that can manage and store larger and larger amounts of data.
+Nanotech has improved display screens on electronic devices.
+This involves reducing power consumption while decreasing the weight and thickness of the screens.
+Nanotechnology has allowed glass to be more consumer-friendly.
+One glass uses nanomaterials to clean itself, for example.
+As ultraviolet light hits the glass, nanoparticles become energized and begin to break down and loosen organic molecules—dirt—on the glass.
+Rain cleanly washes the dirt away.
+Similar technology could be applied to touch-screen devices to resist sweat.
+Nanomedicine Nanotechnology can help medical tools and procedures be more personalized, portable, cheaper, safer, and easier to administer .
+Silver nanoparticles incorporated into bandages, for example, smother and kill harmful microbes .
+This can be especially useful in healing burns.
+Nanotech is also furthering advances in disease treatments.
+Researchers are developing ways to use nanoparticles to deliver medications directly to specific cells.
+This is especially promising for the treatment of cancer, because chemotherapy and radiation treatments can damage healthy as well as diseased tissue.
+Dendrimers, nanomaterials with multiple branches, may improve the speed and efficiency of drug delivery.
+Researchers have experimented with dendrimers that deliver drugs that slow the spread of cerebral palsy in rabbits, for example.
+The list goes on.
+Fullerenes can be manipulated to have anti- inflammatory properties to slow or even stop allergic reactions.
+Nanomaterials may reduce bleeding and speed coagulation .
+Diagnostic testing and imaging can be improved by arranging nanoparticles to detect and attach themselves to specific proteins or diseased cells.
+Grey Goo and Other Concerns Unregulated pursuit of nanotechnology is controversial.
+In 1986, Eric Drexler wrote a book called Engines of Creation , which painted a vision of the future of nanotech, but also warned of the dangers.
+The book’s apocalyptic vision included self-replicating nanometer-scale robots that malfunctioned , duplicating themselves a trillion times over.
+These nano-bots rapidly consumed the entire world as they pulled carbon from the environment to replicate themselves.
+Drexler’s vision is nicknamed the "grey goo" scenario.
+Many experts think concerns like "grey goo" are probably premature .
+Even so, many scientists and engineers continue to voice their concerns about nanotech’s future.
+Nanopollution is the nickname given to the waste created by the manufacturing of nanomaterials.
+Some forms of nanopollution are toxic, and environmentalists are concerned about the bioaccumulation , or build-up, of these toxic nanomaterials in microbes, plants, and animals.
+Nanotoxicology is the study of toxic nanoparticles, particularly their interaction with the human body.
+Nanotoxicology is an important research field, as nanomaterials can enter the body both intentionally and unintentionally.
+“Research is needed,” writes the U.S. Environmental Protection Agency, “to determine whether exposure to manufactured nanomaterials can lead to adverse effects to the heart, lungs, skin; alter reproductive performance; or contribute to cancer.” Another concern about nanotechnology is the price.
+Nanotech is an expensive area of research, and largely confined to developed nations with strong infrastructure .
+Many social scientists are concerned that underdeveloped countries will fall further behind as they cannot afford to develop a nanotechnology industry.
+Fast Fact Investing in Nanotech There are many ways of assessing investment in nanotechnology: government funding of research, venture capital funding of start-ups, or the number of new nanotech companies.
+These nations have made significant investment in nanotechnology.
+Fast Fact Nano-Cartography In 2010, researchers at IBM used nanotechnology to create a 3-D relief map of the world .
+.
+.
+1/1000 the size of a grain of salt.
+Researchers used a sophisticated silicon tip in their microscope to carve into a glass substrate.
+Fast Fact Nano-Graffiti In 1989, IBM researchers spelled out their company’s logo using 35 xenon atoms.
+Twenty years later, researchers at Stanford University spelled out “SU” using sub-atomic particles.
+The letters were so small they could be used to print the 32-volume Encyclopedia Britannica 2,000 times and the contents would fit on the head of a pin.
+Fast Fact Nanoscale Perspective Fast Fact Nano-Soccer Nanosoccer is an event where computer-driven “nanobots” the size of dust mites challenge one another on fields no bigger than a grain of rice.
+Often sponsored by government laboratories, nanosoccer teams from all over the world compete in events such as the “RoboCup.” See the rules and results of the 2009 nanosoccer tournament here .
+Articles & Profiles National Geographic News: Sun Plus Nanotechnology—Can Solar Energy Get Bigger by Thinking Small?
+Reference NASA: Center for Nanotechnology Nanooze Website National Nanotechnology Initiative Credits Media Credits The audio, illustrations, photos, and videos are credited beneath the media asset, except for promotional images, which generally link to another page that contains the media credit.
+The Rights Holder for media is the person or group credited.
+Writer Carey Lozano Editors National Geographic Society Jeannie Evers, Emdash Editing , Emdash Editing Expert Reviewers Rolf Allenspach , IBM Research Carl Batt , Cornell University Chris Sciacca , IBM Research Producer National Geographic Society other Last Updated September 27, 2022 User Permissions For information on user permissions, please read our Terms of Service .
+If you have questions about licensing content on this page, please contact ngimagecollection@natgeo.com for more information and to obtain a license.
+If you have questions about how to cite anything on our website in your project or classroom presentation, please contact your teacher.
+She or he will best know the preferred format.
+When you reach out to him or her, you will need the page title, URL, and the date you accessed the resource.
+Media If a media asset is downloadable, a download button appears in the corner of the media viewer.
+If no button appears, you cannot download or save the media.
+Text Text on this page is printable and can be used according to our Terms of Service .
+Interactives Any interactives on this page can only be played while you are visiting our website.
+You cannot download interactives.
+Related Resources National Geographic Headquarters 1145 17th Street NW Washington, DC 20036 ABOUT National Geographic Society National Geographic Partners News and Impact Contact Us Explore Our Explorers Our Projects Resources for Educators Museum and Events Technology and Innovation Join Us Ways to Give Apply for a Grant Careers donate get updates Connect National Geographic Society is a 501 (c)(3) organization.
+© 1996 - 2023 National Geographic Society.
+All rights reserved.
+Privacy Notice | Sustainability Policy | Terms of Service | Code of Ethics
