@@ -16,5 +16,19 @@ For this assignment I had to explore WordNet, SentiWordNet, and collocation. Thi
 # Assignment 4: Ngrams
 For this assignment we read in training files for three languages (English, French, and Italian) and then, make unigrams and bigrams for each language, and then pickle them in this [file](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_4/Homework3_pt1.py). Then, in this [file](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_4/Homework3_pt2.py) I read in a test file and went line by line to try and figure out if each line was in a specific language. After that, the predictions were stored in a seperate file (found in the Assignment_4) folder. When running the files, the first one must be run before the second, and after completion of the second you can view the predictions in the file mentioned previously and the accuracy and the list of incorrect lines will be displayed. This is a [paper](https://github.com/wttkirby/Human-Language_Tech/blob/main/NGrams.docx) written about NGrams.
 
-# Assignment 6: Parsing
+# Assignment 5: Parsing
 For this assignment I created a sentence and parsed it in three different ways (PSG, Dependency Tree, SRL) and wrote a small paragraph on my thought of each n this [paper](https://github.com/wttkirby/Human-Language_Tech/blob/main/Parsing.pdf).
+
+# Assignment 6: WebCrawler
+## WebCrawler:
+For this assignment I made a webcrawler for three different topics: [Frida Kahlo](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_6/scrapenprocess.py), [Nanotechnology](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_6/nanotech.py), and current [Transgender Legislation](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_6/transleg.py). These all find other urls based on an initial google search about the chosen topic. While we only needed to use one topic, I did three as I had a hard time finding one with enough useable links. If I was able to generate 15 links, only some of those links were able to be scraped due to anti-scraping bots. I had the most luck with useable links with the Transgender Legislation topic, getting 12 links that were able to be scraped.
+
+## Reading Info and Outputting Terms
+This file takes the information scraped from the generated files and outputs the most frequently used terms for the topics: [Frida Kahlo](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_6/readnterm.py), [Nanotech](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_6/nanoread.py), [Transgender Legislation](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_6/transread.py). It also pickles a dictionary of 10 terms I picked that I thought were integral to each topic. These dictionaries use the terms as keys and store each sentence that contains the term.
+
+## File naming:
+The files have a pretty easy naming convention: < Topic >_ File _< Link Number >.txt. This means that all of the information scraped for Frida Kahlo would be named like: Frida_File_[1...*].txt. The files named like this hold all of the information scraped from the urls found and had some general preprocessing done on them to seperate the sentences with a "\n".
+
+The files named url['', 2, 3].txt hold all of the urls found by the webcrawler. This does include those that are not able to be scraped.
+
+The files named filename['', 2, 3].txt hold the names of all of the files that hold information for a topic. This makes it easy to read in between the two files used for this webcrawler.
