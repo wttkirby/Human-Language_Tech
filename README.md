@@ -32,3 +32,5 @@ The files have a pretty easy naming convention: < Topic >_ File _< Link Number >
 The files named url['', 2, 3].txt hold all of the urls found by the webcrawler. This does include those that are not able to be scraped.
 
 The files named filename['', 2, 3].txt hold the names of all of the files that hold information for a topic. This makes it easy to read in between the two files used for this webcrawler.
+
+I also made a [paper](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_6/WebCrawler.docx) as required by Professor Mazidi.
