@@ -34,3 +34,9 @@ The files named url['', 2, 3].txt hold all of the urls found by the webcrawler. 
 The files named filename['', 2, 3].txt hold the names of all of the files that hold information for a topic. This makes it easy to read in between the two files used for this webcrawler.
 
 I also made a [paper](https://github.com/wttkirby/Human-Language_Tech/blob/main/Assignment_6/WebCrawler.docx) as required by Professor Mazidi.
+
+#Assignment 7: Text Classification
+For this assignment we were supposed to run three text classification algorithms on any dataset of our choosing. I chose a [data set](https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus) that was made to categorise text based on whether or not it had signs of mental health issues. This is the [file](portfolio-assignment-7-text-classification.ipynb) that I created.
+
+#Assignment 8: ACL Paper Summary
+For this assignment I read a paper on ToxiGen, a text classification model that hopes to more accurately identify toxic, bigotted language on social media platforms. It highlights the shortcomings of current models used and the process to create it. I then wrote a 2-page [summary](ToxiGen.pdf) about the paper.
