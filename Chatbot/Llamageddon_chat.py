@@ -8,6 +8,9 @@ import os
 import pickle
 
 
+all_trivia_shown = False
+all_ratings_shown = False
+negating_terms = ['don\'t', 'no', 'not']
 # This is a class for the users to hold basic information on them.
 class UserPerson:
     def __init__(self, name: str):
@@ -107,21 +110,42 @@ def greet_user():
     return curr_user
 
 
-# This is how I decide if the tone a person is using when talking to the chatbot is nice and affect the score
-def userAtt(s, user: UserPerson):
+# This function reads the input from a user and evaluates how positive or negative it is and penalizes users for cursing
+# when being generally negative (when they are more likely to be cursing at the chatbot itself).
+def scored_input( user: UserPerson, input_prompt):
+    s = input(input_prompt)
     sentiment_finder = SentimentIntensityAnalyzer()
     score = sentiment_finder.polarity_scores(s)["compound"]
     score = score * 10
     user.addScore(score)
     uhoh = profanity.contains_profanity(s)
-    if uhoh:
+    if uhoh and score <= 0:
         user.addScore(-25)
-    save_info(user)
+        save_info(user)
+    return s.lower()
+
+
+def general_chat(user: UserPerson):
+    initial_response = 'Alrighty so, this is a chatbot for a true masterpiece. One of the greatest movies I have\n' \
+                       'ever had the chance to experience: LLamageddon. There are a couple things we can do from here' \
+                        ':\n we can just generally chat about the movie, you can ask about trivia, or you can ask for' \
+                       '\nratings. As we chat be mindful of the tone you use. I am fairly opinionated and fairly \n' \
+                        'childish so if I get too mad there\'s really no telling what might happen. I also really\n' \
+                        'care about this film, so being too critical will also rub me the wrong way.'
+    print(initial_response)
+    if not user.seen_movie:
+        user_response = scored_input(user, 'It seems like you\'ve never had the chance to see LLamageddon! I can '
+                                           'totally give you a synopsis if you\'d like! I do have to say there is a '
+                                           'portion of the movie I would like to warn you about though before you \n'
+                                           'watch it. It does contain minor spoilers but I can be as vague or as '
+                                           'descriptive as you want.\n')
+        if negating_terms not in user_response and 'synopsis' in user_response or 'summary' in user_response:
+
+            print('hi')
 
 
 if __name__ == '__main__':
     print("--LLAMAGEDDON CHATBOT--\n")
     user = greet_user()
-    response = input('')
-    userAtt(response, user)
+    scored_input(user, '')
     print(str(user.score))
