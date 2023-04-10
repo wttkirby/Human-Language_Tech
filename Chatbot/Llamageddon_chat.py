@@ -177,14 +177,11 @@ def addRating(rating_input):
 # This function opens the trivia file and outputs a fact to the user. It will only show each fact once.
 def trivia_game(user:UserPerson):
     user_seen = user.trivia
-    print(user_seen)
     with open('llama_trivia.txt', 'r', encoding='utf-8') as rfile:
         trivia = rfile.read()
         trivia = trivia.splitlines()
         rfile.close()
-    print(trivia)
     user_seen, trivia = [seen for seen in user_seen if seen not in trivia], [fact for fact in trivia if fact not in user_seen]
-    print(trivia)
     if trivia:
         choice = random.choice(trivia)
         user.trivia.append(str(choice))
@@ -220,7 +217,7 @@ def general_chat(user: UserPerson):
                        ':\n we can just generally chat about the movie, you can ask about trivia, or you can ask for' \
                        '\nratings. As we chat be mindful of the tone you use. I am fairly opinionated and fairly \n' \
                        'childish so if I get too mad there\'s really no telling what might happen. I also really\n' \
-                       'care about this film, so being too critical will also rub me the wrong way.\n\n'
+                       'care about this film, so being too critical will also rub me the wrong way.\n'
     print(initial_response)
     if not user.seen_movie:
         user_response = scored_input(user, 'It seems like you\'ve never had the chance to see LLamageddon! I can '
@@ -233,13 +230,14 @@ def general_chat(user: UserPerson):
                                          'student\'s party turns\n'
                                          'to bloodshed. Giving away anything more than this would be a crime, though '
                                          'I will say there is a\n'
-                                         'particularly disturbing scene that I could warn you about if you\'d like.',
+                                         'particularly disturbing scene that I could warn you about if you\'d like.\n',
                                          False)
             if not [ele for ele in negating_terms if(ele in user_response)]:
                 print('Near the end of the movie, one of the main cast is changed into a llama and proceeds to lay\n '
                       'Llama eggs for like WAY too long. The special effects are really good too, which makes it that\n'
                       'much worse to watch. The actor has a stellar performance as well. The horror elements in the\n '
-                      'movie definitely build but this scene takes the cake and is absolutely horrifying.')
+                      'movie definitely build but this scene takes the cake and is absolutely horrifying.\n'
+                      '\nWhat\'d you like to talk about?\n')
                 user.warning = True
             else:
                 print('Got it! How else can I help you!')
@@ -276,7 +274,7 @@ def general_chat(user: UserPerson):
             elif ('ratings' in user_response and [ele for ele in negating_terms if(ele in user_response)]) or (did_trivia and [ele for ele in negating_terms if(ele in user_response)]):
                 print('Got it! Is there anything else you\'d like to talk about?')
                 did_rating = False
-            elif 'spit' in user_response:
+            elif ' spit ' in user_response:
                 print('Howie Dewin talked about how he will never forget the taste of llama spit, so it seems like '
                       'Louie definitely spat everwhere.\nI genuinely feel bad for those who were spat on.')
             elif 'animal cruelty' in user_response:
@@ -316,17 +314,15 @@ def general_chat(user: UserPerson):
                 print('Hi! I\'m unsure exactly what you want to talk about unfortunately. If you\'d like to end our '
                       'conversation, simply say goodbye!')
         else:
-            print('Dude you\'ve been so rude to me since you started talking to me. I think it\'s time for a fresh '
+            print('Dude you\'ve been so rude to me since you started talking to me. I think it\'s time for a fresh\n'
                   'start. As of now, your user file is being deleted. Fix the attitude or get better movie opinions.')
             name = user.user_name
-            filename = str(name) + '.txt'
+            filename = str(name) + '.p'
             os.remove(filename)
+            break
 
 
 if __name__ == '__main__':
     print("--LLAMAGEDDON CHATBOT--\n")
     user = greet_user()
     general_chat(user)
-    filename = str(user.user_name) + '.p'
-    os.remove(filename)
-    os.remove('users.txt')
