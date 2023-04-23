@@ -43,3 +43,6 @@ For this assignment I read a paper on ToxiGen, a text classification model that 
 
 # Assignment 9: Chatbot
 For this assignment I made a chatbot for the movie Llamageddon. This [chatbot](Chatbot\Llamageddon_chat.py) is able to interact with a user and can respond to the majority fo what as user is likely to ask the chatbot. I also creates a [webcrawler](Chatbot\Rating_Crawler.py) in order to get the [ratings](Chatbot\llama_ratings.txt) needed for this file. I also created a [trivia](Chatbot\llama_trivia.txt) database for this movie.
+
+# Assignment 10: Text Calssification 2
+For this assignment I had to use a Sequential model, RNN, and Gloves embedding to classify whether or not tweets showed signs of possibly being indicative of mental illness in this [file](text-classification-2.ipynb).
