@@ -46,3 +46,8 @@ For this assignment I made a chatbot for the movie Llamageddon. This [chatbot](C
 
 # Assignment 10: Text Calssification 2
 For this assignment I had to use a Sequential model, RNN, and Gloves embedding to classify whether or not tweets showed signs of possibly being indicative of mental illness in this [file](text-classification-2.ipynb).
+
+# Semester Wrap Up
+This is a [file](https://github.com/wttkirby/Human-Language_Tech/blob/main/Technical%20and%20Soft%20Skills.pdf) has a list of technical and soft skills I gained through this class this semester.
+
+I really enjoyed this class as it expanded my understanding of how a lot of voice recognition software works as well as any sort of chatbot. There is an immense amount of work needed to do get a product to understand a users request and output the requested information or perform the requested action. I had so much fun taking the time to finish all of the assignments, but they did take a lot of research and effort to finish. I want to continue working on my Chatbot since it was so much fun to do. Looking through this portfolio, you'll see the wide array of work we did.
